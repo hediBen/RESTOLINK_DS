@@ -1,0 +1,29 @@
+<!-- A grey horizontal navbar that becomes vertical on small screens -->
+
+
+
+<div class="jumbotron text-center">
+  <h1>Resto.Link Recommendation System</h1>
+  <p>Create User</p>
+</div>
+
+<div class="container">
+  <div class="row">
+    <h4>Create User :</h4>
+    <div class="col-sm-12">
+      <form action="/action_page.php">
+        <div class="form-group">
+          <label for="email">Email address:</label>
+          <input type="email" #email  class="form-control" id="email" placeholder="email">
+        </div>
+        <div class="form-group">
+          <label for="pwd">Password:</label>
+          <input type="password" #password class="form-control" id="pwd" placeholder="password">
+        </div>
+
+        <button routerLink="/dashbord" type="submit" (click)="signup(email.value,password.value)" class="btn btn-primary">Submit</button>
+      </form>
+    </div>
+
+  </div>
+</div>

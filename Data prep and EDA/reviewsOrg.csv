@@ -1,0 +1,969 @@
+userID,placeID,smoker,drink_level,dress_preference,transport,marital_status,activity,budget,name,alcohol,smoking_area,dress_code,price,area,other_services,GlobalRatings,age,distance,Review_State
+1077,135085,false,social drinker,elegant,public,married,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,32,0.693406728471395,Excellent
+1077,135038,false,social drinker,elegant,public,married,student,medium,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,5,32,0.8068757871206556,Excellent
+1077,132825,false,social drinker,elegant,public,married,student,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,6,32,1.0363302991765728,Excellent
+1077,135060,false,social drinker,elegant,public,married,student,medium,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,5,32,0.7291540610039731,Excellent
+1068,135104,false,casual drinker,informal,public,single,student,low,vips,Full_Bar,not permitted,informal,medium,closed,variety,4,31,0.08087798156044765,Medium
+1068,132663,false,casual drinker,informal,public,single,student,low,tacos abi,No_Alcohol_Served,none,informal,low,closed,none,3,31,0.1704678051740819,Medium
+1068,132630,false,casual drinker,informal,public,single,student,low,palomo tec,No_Alcohol_Served,none,informal,low,closed,none,3,31,0.42761220321203336,Medium
+1067,132584,false,abstemious,no preference,public,single,student,medium,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,32,0.33833006249117437,Excellent
+1067,132733,false,abstemious,no preference,public,single,student,medium,Little Cesarz,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,32,0.6176084305719001,Medium
+1067,132732,false,abstemious,no preference,public,single,student,medium,Taqueria EL amigo ,No_Alcohol_Served,none,casual,low,open,none,5,32,0.35817053488075956,Excellent
+1067,132630,false,abstemious,no preference,public,single,student,medium,palomo tec,No_Alcohol_Served,none,informal,low,closed,none,2,32,0.42761220321203336,Bad
+1067,132560,false,abstemious,no preference,public,single,student,medium,puesto de gorditas,No_Alcohol_Served,permitted,informal,low,open,none,1,32,0.17250516837330318,Bad
+1103,132584,false,abstemious,formal,public,single,professional,medium,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,30,0.3368158871919377,Medium
+1103,132732,false,abstemious,formal,public,single,professional,medium,Taqueria EL amigo ,No_Alcohol_Served,none,casual,low,open,none,2,30,0.3596249047512589,Bad
+1103,132630,false,abstemious,formal,public,single,professional,medium,palomo tec,No_Alcohol_Served,none,informal,low,closed,none,3,30,0.4261821172854732,Medium
+1103,132613,false,abstemious,formal,public,single,professional,medium,carnitas_mata,No_Alcohol_Served,permitted,informal,medium,closed,none,6,30,0.3651491530642087,Excellent
+1103,132667,false,abstemious,formal,public,single,professional,medium,little pizza Emilio Portes Gil,No_Alcohol_Served,none,informal,low,closed,none,5,30,0.5353810489272859,Excellent
+1103,135104,false,abstemious,formal,public,single,professional,medium,vips,Full_Bar,not permitted,informal,medium,closed,variety,3,30,0.08099677086511847,Medium
+1103,132663,false,abstemious,formal,public,single,professional,medium,tacos abi,No_Alcohol_Served,none,informal,low,closed,none,3,30,0.16902852531126009,Medium
+1103,132733,false,abstemious,formal,public,single,professional,medium,Little Cesarz,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,30,0.6161190462537103,Excellent
+1107,132660,false,abstemious,no preference,car owner,single,,high,carnitas mata calle Emilio Portes Gil,No_Alcohol_Served,none,informal,low,closed,none,5,30,1.3789126137452954,Excellent
+1107,132584,false,abstemious,no preference,car owner,single,,high,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,30,1.2917963592191668,Excellent
+1107,132733,false,abstemious,no preference,car owner,single,,high,Little Cesarz,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,30,1.4847145360626668,Excellent
+1044,135088,true,social drinker,informal,car owner,married,professional,medium,Cafeteria cenidet,No_Alcohol_Served,not permitted,informal,low,closed,none,6,50,9.547245108675387,Excellent
+1044,132583,true,social drinker,informal,car owner,married,professional,medium,McDonalds Centro,No_Alcohol_Served,not permitted,informal,low,closed,none,4,50,4.393866108920318,Medium
+1070,132608,false,casual drinker,informal,public,single,student,low,Hamburguesas La perica,No_Alcohol_Served,permitted,informal,low,open,none,5,28,0.6416592499553924,Excellent
+1070,132609,false,casual drinker,informal,public,single,student,low,Pollo_Frito_Buenos_Aires,No_Alcohol_Served,not permitted,informal,low,closed,none,3,28,0.7854387418218386,Medium
+1070,132613,false,casual drinker,informal,public,single,student,low,carnitas_mata,No_Alcohol_Served,permitted,informal,medium,closed,none,2,28,0.18638207298805642,Bad
+1082,132630,true,abstemious,informal,public,single,student,medium,palomo tec,No_Alcohol_Served,none,informal,low,closed,none,3,30,0.16603611456940687,Medium
+1060,132564,false,casual drinker,formal,public,single,student,medium,churchs,No_Alcohol_Served,none,informal,low,closed,none,6,28,2.2279957269133215,Excellent
+1060,132717,false,casual drinker,formal,public,single,student,medium,tortas hawai,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,28,2.031664574509131,Excellent
+1060,132733,false,casual drinker,formal,public,single,student,medium,Little Cesarz,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,28,4.166993385906887,Excellent
+1060,132740,false,casual drinker,formal,public,single,student,medium,Carreton de Flautas y Migadas,No_Alcohol_Served,permitted,informal,low,open,none,4,28,4.1692316992145315,Medium
+1123,132733,false,abstemious,informal,,single,student,medium,Little Cesarz,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,32,0.6134648395932878,Medium
+1123,132608,false,abstemious,informal,,single,student,medium,Hamburguesas La perica,No_Alcohol_Served,permitted,informal,low,open,none,4,32,0.7213717958480915,Medium
+1123,135104,false,abstemious,informal,,single,student,medium,vips,Full_Bar,not permitted,informal,medium,closed,variety,6,32,0.019762294016197595,Excellent
+1123,132584,false,abstemious,informal,,single,student,medium,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,32,0.3443797776306412,Medium
+1123,132667,false,abstemious,informal,,single,student,medium,little pizza Emilio Portes Gil,No_Alcohol_Served,none,informal,low,closed,none,4,32,0.5328724777668146,Medium
+1123,132740,false,abstemious,informal,,single,student,medium,Carreton de Flautas y Migadas,No_Alcohol_Served,permitted,informal,low,open,none,3,32,0.22182503490913352,Medium
+1123,132613,false,abstemious,informal,,single,student,medium,carnitas_mata,No_Alcohol_Served,permitted,informal,medium,closed,none,4,32,0.35663850482742,Medium
+1123,132594,false,abstemious,informal,,single,student,medium,tacos de barbacoa enfrente del Tec,No_Alcohol_Served,not permitted,informal,low,open,none,3,32,0.30956201116963705,Medium
+1021,132740,false,social drinker,no preference,car owner,single,student,medium,Carreton de Flautas y Migadas,No_Alcohol_Served,permitted,informal,low,open,none,5,35,2.4544473550670105,Excellent
+1026,132626,false,abstemious,formal,public,single,student,medium,la perica hamburguesa,No_Alcohol_Served,none,informal,medium,closed,none,6,30,0.5522079023594009,Excellent
+1021,132668,false,social drinker,no preference,car owner,single,student,medium,TACOS EL GUERO,No_Alcohol_Served,none,informal,low,closed,none,6,35,2.201156815950349,Excellent
+1021,132715,false,social drinker,no preference,car owner,single,student,medium,tacos de la estacion,No_Alcohol_Served,none,informal,low,open,none,5,35,1.363760716389493,Excellent
+1083,135034,false,abstemious,,,,,,Michiko Restaurant Japones,No_Alcohol_Served,none,informal,medium,closed,none,6,38,1.0236393548597262,Excellent
+1083,132723,false,abstemious,,,,,,Gordas de morales,Full_Bar,section,informal,medium,closed,none,3,38,1.8809185939198128,Medium
+1083,135046,false,abstemious,,,,,,Restaurante El Reyecito,No_Alcohol_Served,none,informal,medium,closed,none,5,38,2.7456802424519475,Excellent
+1108,135075,false,abstemious,informal,public,single,student,medium,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,6,36,0.601538635529482,Excellent
+1108,132572,false,abstemious,informal,public,single,student,medium,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,4,36,0.5704534748817759,Medium
+1108,135074,false,abstemious,informal,public,single,student,medium,Restaurante la Parroquia Potosina,Wine-Beer,section,informal,high,closed,none,5,36,1.4102883783594842,Excellent
+1108,135028,false,abstemious,informal,public,single,student,medium,La Virreina,Wine-Beer,none,informal,medium,closed,none,3,36,0.34883393220956116,Medium
+1108,135085,false,abstemious,informal,public,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,36,0.9503194198535951,Medium
+1108,135032,false,abstemious,informal,public,single,student,medium,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,5,36,1.7584206321392764,Excellent
+1108,135086,false,abstemious,informal,public,single,student,medium,Mcdonalds Parque Tangamanga,No_Alcohol_Served,not permitted,informal,medium,closed,none,2,36,2.732607723053025,Bad
+1108,132723,false,abstemious,informal,public,single,student,medium,Gordas de morales,Full_Bar,section,informal,medium,closed,none,6,36,3.3836307429495376,Excellent
+1108,135046,false,abstemious,informal,public,single,student,medium,Restaurante El Reyecito,No_Alcohol_Served,none,informal,medium,closed,none,4,36,1.6075180861351452,Medium
+1108,135058,false,abstemious,informal,public,single,student,medium,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,3,36,2.8229223020644025,Medium
+1012,135001,false,casual drinker,formal,public,single,student,medium,Vips,Wine-Beer,none,informal,medium,closed,none,4,31,14.226183771036274,Medium
+1012,134983,false,casual drinker,formal,public,single,student,medium,Restaurant and Bar and Clothesline Carlos N Charlies,Full_Bar,section,informal,high,closed,none,6,31,15.003173890838395,Excellent
+1012,134996,false,casual drinker,formal,public,single,student,medium,Sanborns Casa Piedra,Wine-Beer,only at bar,informal,medium,closed,Internet,6,31,12.519510581258864,Excellent
+1093,135019,true,casual drinker,no preference,car owner,single,student,medium,Restaurant Bar Coty y Pablo,No_Alcohol_Served,none,informal,low,closed,none,6,29,2.538242458695205,Excellent
+1093,134996,true,casual drinker,no preference,car owner,single,student,medium,Sanborns Casa Piedra,Wine-Beer,only at bar,informal,medium,closed,Internet,6,29,6.712033081965872,Excellent
+1093,135001,true,casual drinker,no preference,car owner,single,student,medium,Vips,Wine-Beer,none,informal,medium,closed,none,6,29,9.929797092283184,Excellent
+1093,134976,true,casual drinker,no preference,car owner,single,student,medium,Log Yin,No_Alcohol_Served,none,informal,low,closed,none,5,29,6.7944145144784756,Excellent
+1093,134999,true,casual drinker,no preference,car owner,single,student,medium,Kiku Cuernavaca,No_Alcohol_Served,none,informal,medium,closed,none,6,29,4.847610004146464,Excellent
+1030,135018,false,casual drinker,formal,on foot,single,student,medium,El Oceano Dorado,Full_Bar,permitted,informal,medium,open,variety,6,28,4.471787039811899,Excellent
+1093,135013,true,casual drinker,no preference,car owner,single,student,medium,Giovannis,No_Alcohol_Served,none,informal,low,closed,none,5,29,5.386202708617108,Excellent
+1030,134986,false,casual drinker,formal,on foot,single,student,medium,Restaurant Las Mananitas,Wine-Beer,none,formal,high,closed,none,6,28,11.05309656181732,Excellent
+1012,134986,false,casual drinker,formal,public,single,student,medium,Restaurant Las Mananitas,Wine-Beer,none,formal,high,closed,none,6,31,12.786825020174591,Excellent
+1012,135018,false,casual drinker,formal,public,single,student,medium,El Oceano Dorado,Full_Bar,permitted,informal,medium,open,variety,6,31,5.620651848001706,Excellent
+1030,135088,false,casual drinker,formal,on foot,single,student,medium,Cafeteria cenidet,No_Alcohol_Served,not permitted,informal,low,closed,none,2,28,5.218493979153581,Bad
+1093,132767,true,casual drinker,no preference,car owner,single,student,medium,Restaurant Familiar El Chino,Wine-Beer,permitted,casual,medium,open,variety,6,29,2.4238120317406606,Excellent
+1093,135011,true,casual drinker,no preference,car owner,single,student,medium,Los Vikingos,No_Alcohol_Served,none,informal,medium,closed,none,2,29,4.547648223308154,Bad
+1066,135011,false,abstemious,informal,public,single,student,low,Los Vikingos,No_Alcohol_Served,none,informal,medium,closed,none,5,33,2.5643189554756165,Excellent
+1066,134999,false,abstemious,informal,public,single,student,low,Kiku Cuernavaca,No_Alcohol_Served,none,informal,medium,closed,none,3,33,4.006048898321112,Medium
+1127,134975,false,abstemious,no preference,public,single,student,low,Rincon del Bife,Full_Bar,section,informal,high,closed,variety,6,27,0.997924482213417,Excellent
+1127,135021,false,abstemious,no preference,public,single,student,low,Subway,No_Alcohol_Served,not permitted,informal,low,closed,none,4,27,2.037771092482042,Medium
+1127,134987,false,abstemious,no preference,public,single,student,low,Chilis Cuernavaca,Wine-Beer,none,informal,medium,closed,none,4,27,2.3260820555135178,Medium
+1127,134996,false,abstemious,no preference,public,single,student,low,Sanborns Casa Piedra,Wine-Beer,only at bar,informal,medium,closed,Internet,6,27,2.497082491056437,Excellent
+1017,132768,false,casual drinker,formal,public,single,professional,medium,Mariscos Tia Licha,No_Alcohol_Served,not permitted,casual,medium,closed,none,3,28,4.416199011237013,Medium
+1066,135019,false,abstemious,informal,public,single,student,low,Restaurant Bar Coty y Pablo,No_Alcohol_Served,none,informal,low,closed,none,3,33,1.7531684505098968,Medium
+1017,134975,false,casual drinker,formal,public,single,professional,medium,Rincon del Bife,Full_Bar,section,informal,high,closed,variety,4,28,1.95396895767325,Medium
+1017,134983,false,casual drinker,formal,public,single,professional,medium,Restaurant and Bar and Clothesline Carlos N Charlies,Full_Bar,section,informal,high,closed,none,1,28,3.581026781651169,Bad
+1066,132767,false,abstemious,informal,public,single,student,low,Restaurant Familiar El Chino,Wine-Beer,permitted,casual,medium,open,variety,4,33,1.1389857307618019,Medium
+1100,135021,false,casual drinker,formal,public,single,student,medium,Subway,No_Alcohol_Served,not permitted,informal,low,closed,none,3,29,17.42036139192642,Medium
+1100,134996,false,casual drinker,formal,public,single,student,medium,Sanborns Casa Piedra,Wine-Beer,only at bar,informal,medium,closed,Internet,4,29,16.4570041595363,Medium
+1066,135013,false,abstemious,informal,public,single,student,low,Giovannis,No_Alcohol_Served,none,informal,low,closed,none,5,33,3.1036003573379474,Excellent
+1100,135000,false,casual drinker,formal,public,single,student,medium,Restaurant los Pinos,No_Alcohol_Served,none,informal,medium,closed,none,4,29,16.872063672207073,Medium
+1100,135001,false,casual drinker,formal,public,single,student,medium,Vips,Wine-Beer,none,informal,medium,closed,none,6,29,19.65918744957325,Excellent
+1100,132768,false,casual drinker,formal,public,single,student,medium,Mariscos Tia Licha,No_Alcohol_Served,not permitted,casual,medium,closed,none,6,29,18.168548762609067,Excellent
+1100,134976,false,casual drinker,formal,public,single,student,medium,Log Yin,No_Alcohol_Served,none,informal,low,closed,none,5,29,17.34578665339046,Excellent
+1133,134983,false,abstemious,no preference,car owner,single,student,medium,Restaurant and Bar and Clothesline Carlos N Charlies,Full_Bar,section,informal,high,closed,none,3,28,14.41722526236965,Medium
+1133,134986,false,abstemious,no preference,car owner,single,student,medium,Restaurant Las Mananitas,Wine-Beer,none,formal,high,closed,none,6,28,13.922696646740865,Excellent
+1133,132766,false,abstemious,no preference,car owner,single,student,medium,Mikasa,Wine-Beer,none,informal,medium,closed,none,2,28,12.552769312603342,Bad
+1133,135021,false,abstemious,no preference,car owner,single,student,medium,Subway,No_Alcohol_Served,not permitted,informal,low,closed,none,6,28,12.457053798238992,Excellent
+1133,135001,false,abstemious,no preference,car owner,single,student,medium,Vips,Wine-Beer,none,informal,medium,closed,none,6,28,14.701360802790397,Excellent
+1133,134975,false,abstemious,no preference,car owner,single,student,medium,Rincon del Bife,Full_Bar,section,informal,high,closed,variety,3,28,12.160302744663333,Medium
+1133,134992,false,abstemious,no preference,car owner,single,student,medium,Restaurant Teely,Wine-Beer,section,casual,high,closed,none,4,28,15.004044203055933,Medium
+1133,135019,false,abstemious,no preference,car owner,single,student,medium,Restaurant Bar Coty y Pablo,No_Alcohol_Served,none,informal,low,closed,none,3,28,4.858214505242255,Medium
+1072,135016,false,casual drinker,no preference,public,single,student,medium,Arrachela Grill,No_Alcohol_Served,none,informal,medium,closed,none,5,35,0.2508642208142605,Excellent
+1072,132773,false,casual drinker,no preference,public,single,student,medium,El cotorreo,Wine-Beer,permitted,informal,low,open,none,5,35,0.2634284884268213,Excellent
+1072,135088,false,casual drinker,no preference,public,single,student,medium,Cafeteria cenidet,No_Alcohol_Served,not permitted,informal,low,closed,none,1,35,1.192275253255748,Bad
+1026,132561,false,abstemious,formal,public,single,student,medium,cafe ambar,No_Alcohol_Served,none,informal,low,closed,none,3,30,0.9524141677116953,Medium
+1026,132706,false,abstemious,formal,public,single,student,medium,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,medium,closed,none,2,30,0.4241681234483543,Bad
+1026,132665,false,abstemious,formal,public,single,student,medium,TACOS CORRECAMINOS,No_Alcohol_Served,none,informal,low,closed,none,6,30,0.4392406728668204,Excellent
+1023,132733,false,casual drinker,informal,car owner,single,student,low,Little Cesarz,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,31,0.41100767106436775,Excellent
+1080,132668,true,social drinker,formal,car owner,single,student,low,TACOS EL GUERO,No_Alcohol_Served,none,informal,low,closed,none,3,32,1.3202316353666275,Medium
+1080,132660,true,social drinker,formal,car owner,single,student,low,carnitas mata calle Emilio Portes Gil,No_Alcohol_Served,none,informal,low,closed,none,6,32,1.0217771950382515,Excellent
+1080,132733,true,social drinker,formal,car owner,single,student,low,Little Cesarz,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,32,0.9909101879787738,Medium
+1080,132608,true,social drinker,formal,car owner,single,student,low,Hamburguesas La perica,No_Alcohol_Served,permitted,informal,low,open,none,6,32,1.6720277670664783,Excellent
+1063,132660,false,casual drinker,formal,public,single,student,medium,carnitas mata calle Emilio Portes Gil,No_Alcohol_Served,none,informal,low,closed,none,6,31,0.8696894217133386,Excellent
+1063,132584,false,casual drinker,formal,public,single,student,medium,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,31,0.8106276374110323,Medium
+1063,132609,false,casual drinker,formal,public,single,student,medium,Pollo_Frito_Buenos_Aires,No_Alcohol_Served,not permitted,informal,low,closed,none,2,31,1.6874168204326072,Bad
+1063,135104,false,casual drinker,formal,public,single,student,medium,vips,Full_Bar,not permitted,informal,medium,closed,variety,4,31,0.9672812477701757,Medium
+1063,132667,false,casual drinker,formal,public,single,student,medium,little pizza Emilio Portes Gil,No_Alcohol_Served,none,informal,low,closed,none,4,31,0.8479999159958671,Medium
+1080,132564,true,social drinker,formal,car owner,single,student,low,churchs,No_Alcohol_Served,none,informal,low,closed,none,3,32,2.340783471109087,Medium
+1080,132715,true,social drinker,formal,car owner,single,student,low,tacos de la estacion,No_Alcohol_Served,none,informal,low,open,none,3,32,1.348751981105709,Medium
+1074,135011,true,casual drinker,no preference,car owner,single,professional,medium,Los Vikingos,No_Alcohol_Served,none,informal,medium,closed,none,5,52,8.505713281745056,Excellent
+1074,134987,true,casual drinker,no preference,car owner,single,professional,medium,Chilis Cuernavaca,Wine-Beer,none,informal,medium,closed,none,6,52,3.138215275477936,Excellent
+1074,134976,true,casual drinker,no preference,car owner,single,professional,medium,Log Yin,No_Alcohol_Served,none,informal,low,closed,none,6,52,2.411633154002589,Excellent
+1117,135018,false,abstemious,no preference,public,single,professional,medium,El Oceano Dorado,Full_Bar,permitted,informal,medium,open,variety,3,37,1.7595530702544107,Medium
+1117,132766,false,abstemious,no preference,public,single,professional,medium,Mikasa,Wine-Beer,none,informal,medium,closed,none,1,37,3.988849962475061,Bad
+1117,135088,false,abstemious,no preference,public,single,professional,medium,Cafeteria cenidet,No_Alcohol_Served,not permitted,informal,low,closed,none,4,37,0.09824894609082052,Medium
+1117,135016,false,abstemious,no preference,public,single,professional,medium,Arrachela Grill,No_Alcohol_Served,none,informal,medium,closed,none,5,37,1.3337077415393992,Excellent
+1117,132773,false,abstemious,no preference,public,single,professional,medium,El cotorreo,Wine-Beer,permitted,informal,low,open,none,5,37,1.2632623588998153,Excellent
+1117,135000,false,abstemious,no preference,public,single,professional,medium,Restaurant los Pinos,No_Alcohol_Served,none,informal,medium,closed,none,3,37,0.8617633198115868,Medium
+1118,135021,true,casual drinker,informal,public,single,student,medium,Subway,No_Alcohol_Served,not permitted,informal,low,closed,none,2,32,0.9375364530951079,Bad
+1020,135088,false,abstemious,no preference,public,single,professional,medium,Cafeteria cenidet,No_Alcohol_Served,not permitted,informal,low,closed,none,3,37,0.40421357081034653,Medium
+1020,132768,false,abstemious,no preference,public,single,professional,medium,Mariscos Tia Licha,No_Alcohol_Served,not permitted,casual,medium,closed,none,6,37,5.364710023361365,Excellent
+1020,134996,false,abstemious,no preference,public,single,professional,medium,Sanborns Casa Piedra,Wine-Beer,only at bar,informal,medium,closed,Internet,3,37,5.055065366608233,Medium
+1020,135109,false,abstemious,no preference,public,single,professional,medium,Paniroles,Wine-Beer,not permitted,informal,medium,closed,Internet,5,37,4.998839216779028,Excellent
+1051,135088,false,casual drinker,no preference,public,single,professional,medium,Cafeteria cenidet,No_Alcohol_Served,not permitted,informal,low,closed,none,3,40,0.37743233688586947,Medium
+1051,135109,false,casual drinker,no preference,public,single,professional,medium,Paniroles,Wine-Beer,not permitted,informal,medium,closed,Internet,3,40,5.048509047687248,Medium
+1051,132768,false,casual drinker,no preference,public,single,professional,medium,Mariscos Tia Licha,No_Alcohol_Served,not permitted,casual,medium,closed,none,4,40,5.415382294113179,Medium
+1055,135051,false,abstemious,no preference,car owner,married,professional,medium,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,5,67,1.4023257557907918,Excellent
+1055,135075,false,abstemious,no preference,car owner,married,professional,medium,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,6,67,0.5741132518599396,Excellent
+1055,132572,false,abstemious,no preference,car owner,married,professional,medium,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,6,67,0.5497015831515666,Excellent
+1055,135028,false,abstemious,no preference,car owner,married,professional,medium,La Virreina,Wine-Beer,none,informal,medium,closed,none,6,67,0.3761149910044249,Excellent
+1055,135025,false,abstemious,no preference,car owner,married,professional,medium,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,6,67,1.218427692643609,Excellent
+1083,132572,false,abstemious,,,,,,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,6,38,3.7770764613623813,Excellent
+1055,135106,false,abstemious,no preference,car owner,married,professional,medium,El Rinc�n de San Francisco,Wine-Beer,only at bar,informal,medium,open,none,6,67,1.3909702276648317,Excellent
+1083,135072,false,abstemious,,,,,,Sushi Itto,No_Alcohol_Served,none,informal,medium,closed,none,5,38,3.121784770830642,Excellent
+1083,135074,false,abstemious,,,,,,Restaurante la Parroquia Potosina,Wine-Beer,section,informal,high,closed,none,6,38,3.450389030193626,Excellent
+1083,132755,false,abstemious,,,,,,La Estrella de Dimas,No_Alcohol_Served,none,informal,medium,closed,variety,6,38,2.3336349896032647,Excellent
+1083,135044,false,abstemious,,,,,,Restaurant Wu Zhuo Yi,No_Alcohol_Served,none,informal,medium,closed,none,5,38,3.3061819865908126,Excellent
+1055,135048,false,abstemious,no preference,car owner,married,professional,medium,Restaurante Bar Fu-hao,Wine-Beer,none,informal,high,closed,none,6,67,1.2011096093117357,Excellent
+1055,135047,false,abstemious,no preference,car owner,married,professional,medium,Restaurante Casa de las Flores,Wine-Beer,section,informal,high,closed,none,6,67,1.0564205385180299,Excellent
+1055,132754,false,abstemious,no preference,car owner,married,professional,medium,Cabana Huasteca,No_Alcohol_Served,none,informal,medium,closed,none,6,67,0.5781443727150621,Excellent
+1055,132825,false,abstemious,no preference,car owner,married,professional,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,6,67,0.6562996045775925,Excellent
+1053,135076,false,casual drinker,informal,public,single,student,low,Restaurante Pueblo Bonito,Wine-Beer,none,informal,high,closed,none,3,29,1.463848859307308,Medium
+1053,135032,false,casual drinker,informal,public,single,student,low,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,5,29,2.9216306814023665,Excellent
+1053,132825,false,casual drinker,informal,public,single,student,low,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,3,29,3.1708816323397553,Medium
+1053,135063,false,casual drinker,informal,public,single,student,low,Restaurante Alhondiga,No_Alcohol_Served,none,informal,medium,closed,none,5,29,2.4065896691812902,Excellent
+1035,135018,true,casual drinker,no preference,car owner,single,student,medium,El Oceano Dorado,Full_Bar,permitted,informal,medium,open,variety,4,34,2.235888270135793,Medium
+1035,132773,true,casual drinker,no preference,car owner,single,student,medium,El cotorreo,Wine-Beer,permitted,informal,low,open,none,5,34,3.6486056976036347,Excellent
+1053,135042,false,casual drinker,informal,public,single,student,low,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,5,29,2.280128370811064,Excellent
+1053,135053,false,casual drinker,informal,public,single,student,low,La Fontana Pizza Restaurante and Cafe,No_Alcohol_Served,section,informal,high,closed,none,4,29,2.7227569683736705,Medium
+1053,132754,false,casual drinker,informal,public,single,student,low,Cabana Huasteca,No_Alcohol_Served,none,informal,medium,closed,none,4,29,3.137541186216344,Medium
+1035,132583,true,casual drinker,no preference,car owner,single,student,medium,McDonalds Centro,No_Alcohol_Served,not permitted,informal,low,closed,none,3,34,9.211053022855932,Medium
+1053,135081,false,casual drinker,informal,public,single,student,low,El Club,No_Alcohol_Served,none,informal,medium,closed,none,5,29,2.9615880644676578,Excellent
+1053,135025,false,casual drinker,informal,public,single,student,low,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,5,29,3.045611210813399,Excellent
+1053,135038,false,casual drinker,informal,public,single,student,low,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,5,29,2.4161452753359356,Excellent
+1053,135060,false,casual drinker,informal,public,single,student,low,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,5,29,2.2618733859099254,Excellent
+1053,135062,false,casual drinker,informal,public,single,student,low,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,4,29,2.5740304120232365,Medium
+1053,135047,false,casual drinker,informal,public,single,student,low,Restaurante Casa de las Flores,Wine-Beer,section,informal,high,closed,none,6,29,2.8556314973553456,Excellent
+1064,135042,false,casual drinker,formal,public,single,student,medium,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,4,28,2.77389105147379,Medium
+1081,135069,false,casual drinker,informal,public,single,student,low,Abondance Restaurante Bar,Wine-Beer,none,informal,low,closed,none,2,28,7.492139335621422,Bad
+1064,135057,false,casual drinker,formal,public,single,student,medium,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,4,28,0.7435061827670456,Medium
+1081,135076,false,casual drinker,informal,public,single,student,low,Restaurante Pueblo Bonito,Wine-Beer,none,informal,high,closed,none,5,28,4.374278498243337,Excellent
+1081,135043,false,casual drinker,informal,public,single,student,low,pizza clasica,No_Alcohol_Served,none,informal,medium,closed,none,1,28,2.445280608610645,Bad
+1064,135069,false,casual drinker,formal,public,single,student,medium,Abondance Restaurante Bar,Wine-Beer,none,informal,low,closed,none,1,28,1.2532080943025339,Bad
+1064,135060,false,casual drinker,formal,public,single,student,medium,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,2,28,2.9345109530880626,Bad
+1064,135052,false,casual drinker,formal,public,single,student,medium,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,4,28,2.4588566400427974,Medium
+1081,132825,false,casual drinker,informal,public,single,student,low,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,2,28,7.892763301487853,Bad
+1081,135032,false,casual drinker,informal,public,single,student,low,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,2,28,6.9096585141391555,Bad
+1081,135028,false,casual drinker,informal,public,single,student,low,La Virreina,Wine-Beer,none,informal,medium,closed,none,5,28,8.194162074310608,Excellent
+1081,135085,false,casual drinker,informal,public,single,student,low,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,28,7.552208401568952,Medium
+1081,135052,false,casual drinker,informal,public,single,student,low,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,2,28,7.250215753355575,Bad
+1081,135030,false,casual drinker,informal,public,single,student,low,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,medium,closed,Internet,3,28,8.217940310105696,Medium
+1081,135027,false,casual drinker,informal,public,single,student,low,Restaurant Orizatlan,Wine-Beer,none,informal,medium,closed,none,2,28,7.483504195069318,Bad
+1001,132830,false,abstemious,informal,on foot,single,student,medium,Rincon Huasteco,No_Alcohol_Served,none,informal,low,closed,none,3,30,4.2037689849668425,Medium
+1001,132825,false,abstemious,informal,on foot,single,student,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,5,30,0.9307697045815713,Excellent
+1014,135076,false,abstemious,,public,single,student,medium,Restaurante Pueblo Bonito,Wine-Beer,none,informal,high,closed,none,4,29,253.87764785075666,Medium
+1088,132830,false,social drinker,informal,on foot,single,student,medium,Rincon Huasteco,No_Alcohol_Served,none,informal,low,closed,none,4,28,0.9020036766696358,Medium
+1088,135108,false,social drinker,informal,on foot,single,student,medium,Potzocalli,No_Alcohol_Served,none,informal,low,closed,none,6,28,1.0249219839783776,Excellent
+1014,135069,false,abstemious,,public,single,student,medium,Abondance Restaurante Bar,Wine-Beer,none,informal,low,closed,none,2,29,254.90732243619783,Bad
+1014,135050,false,abstemious,,public,single,student,medium,Restaurante la Estrella de Dima,Wine-Beer,none,informal,high,closed,none,6,29,254.13827741712822,Excellent
+1088,135057,false,social drinker,informal,on foot,single,student,medium,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,5,28,1.533695866230629,Excellent
+1014,135081,false,abstemious,,public,single,student,medium,El Club,No_Alcohol_Served,none,informal,medium,closed,none,4,29,254.1421699645092,Medium
+1014,135057,false,abstemious,,public,single,student,medium,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,3,29,255.20315196225872,Medium
+1014,135070,false,abstemious,,public,single,student,medium,Restaurante 75,No_Alcohol_Served,none,informal,medium,closed,none,6,29,251.7369808724545,Excellent
+1088,135041,false,social drinker,informal,on foot,single,student,medium,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,6,28,3.925659997242693,Excellent
+1088,135069,false,social drinker,informal,on foot,single,student,medium,Abondance Restaurante Bar,Wine-Beer,none,informal,low,closed,none,5,28,0.5220563229627861,Excellent
+1088,135082,false,social drinker,informal,on foot,single,student,medium,la Estrella de Dimas,No_Alcohol_Served,none,informal,medium,closed,none,6,28,2.807619228515236,Excellent
+1014,135043,false,abstemious,,public,single,student,medium,pizza clasica,No_Alcohol_Served,none,informal,medium,closed,none,1,29,251.34802495429136,Bad
+1014,135042,false,abstemious,,public,single,student,medium,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,2,29,255.52223844287187,Bad
+1088,135054,false,social drinker,informal,on foot,single,student,medium,Restaurante y Pescaderia Tampico,No_Alcohol_Served,none,informal,high,closed,none,6,28,2.5903828080633104,Excellent
+1088,135070,false,social drinker,informal,on foot,single,student,medium,Restaurante 75,No_Alcohol_Served,none,informal,medium,closed,none,5,28,2.861373519532028,Excellent
+1014,135066,false,abstemious,,public,single,student,medium,Restaurante Guerra,Wine-Beer,section,informal,high,closed,none,5,29,254.76138692715998,Excellent
+1088,135032,false,social drinker,informal,on foot,single,student,medium,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,6,28,3.553149759244261,Excellent
+1088,135081,false,social drinker,informal,on foot,single,student,medium,El Club,No_Alcohol_Served,none,informal,medium,closed,none,5,28,3.188887193037355,Excellent
+1088,135051,false,social drinker,informal,on foot,single,student,medium,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,5,28,3.8688435203918563,Excellent
+1014,132830,false,abstemious,,public,single,student,medium,Rincon Huasteco,No_Alcohol_Served,none,informal,low,closed,none,5,29,253.69674279521533,Excellent
+1056,135066,false,social drinker,informal,on foot,single,student,medium,Restaurante Guerra,Wine-Beer,section,informal,high,closed,none,6,89,0.2096199514380788,Excellent
+1056,135076,false,social drinker,informal,on foot,single,student,medium,Restaurante Pueblo Bonito,Wine-Beer,none,informal,high,closed,none,6,89,1.3333244646724098,Excellent
+1056,135081,false,social drinker,informal,on foot,single,student,medium,El Club,No_Alcohol_Served,none,informal,medium,closed,none,6,89,1.5040070415815698,Excellent
+1056,135062,false,social drinker,informal,on foot,single,student,medium,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,6,89,1.7603458090094855,Excellent
+1056,135027,false,social drinker,informal,on foot,single,student,medium,Restaurant Orizatlan,Wine-Beer,none,informal,medium,closed,none,6,89,2.419755280014459,Excellent
+1056,135085,false,social drinker,informal,on foot,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,89,2.189282742534477,Excellent
+1056,135052,false,social drinker,informal,on foot,single,student,medium,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,6,89,2.0193839218490366,Excellent
+1056,132825,false,social drinker,informal,on foot,single,student,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,6,89,2.5557002182360815,Excellent
+1056,135051,false,social drinker,informal,on foot,single,student,medium,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,6,89,1.991233173119565,Excellent
+1134,135047,false,casual drinker,no preference,public,single,student,medium,Restaurante Casa de las Flores,Wine-Beer,section,informal,high,closed,none,3,28,0.512841379126311,Medium
+1134,135044,false,casual drinker,no preference,public,single,student,medium,Restaurant Wu Zhuo Yi,No_Alcohol_Served,none,informal,medium,closed,none,3,28,0.8722694485393846,Medium
+1134,132825,false,casual drinker,no preference,public,single,student,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,4,28,1.6202227500960256,Medium
+1134,135059,false,casual drinker,no preference,public,single,student,medium,Restaurant Bar Hacienda los Martinez,Wine-Beer,section,informal,medium,closed,none,3,28,1.0618043991302366,Medium
+1134,135065,false,casual drinker,no preference,public,single,student,medium,El angel Restaurante,Wine-Beer,section,informal,high,closed,none,6,28,0.09802941889923289,Excellent
+1134,135046,false,casual drinker,no preference,public,single,student,medium,Restaurante El Reyecito,No_Alcohol_Served,none,informal,medium,closed,none,4,28,1.0298526624233226,Medium
+1134,135085,false,casual drinker,no preference,public,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,28,1.648137568757154,Excellent
+1134,135079,false,casual drinker,no preference,public,single,student,medium,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,4,28,0.7448074229849778,Medium
+1134,135055,false,casual drinker,no preference,public,single,student,medium,la Cochinita Pibil Restaurante Yucateco,No_Alcohol_Served,section,informal,high,closed,none,6,28,1.0211519403477005,Excellent
+1134,132754,false,casual drinker,no preference,public,single,student,medium,Cabana Huasteca,No_Alcohol_Served,none,informal,medium,closed,none,4,28,0.8514432162495691,Medium
+1134,135075,false,casual drinker,no preference,public,single,student,medium,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,4,28,1.3320701034050446,Medium
+1134,135080,false,casual drinker,no preference,public,single,student,medium,los Toneles,No_Alcohol_Served,section,informal,high,closed,none,3,28,0.518693975561281,Medium
+1134,135064,false,casual drinker,no preference,public,single,student,medium,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,6,28,0.5940240330744552,Excellent
+1134,135074,false,casual drinker,no preference,public,single,student,medium,Restaurante la Parroquia Potosina,Wine-Beer,section,informal,high,closed,none,6,28,0.09446493500231773,Excellent
+1106,135041,false,casual drinker,informal,car owner,single,professional,medium,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,3,89,403.4644329206948,Medium
+1126,135057,false,casual drinker,formal,on foot,single,student,low,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,6,29,1.6108003820039272,Excellent
+1106,135028,false,casual drinker,informal,car owner,single,professional,medium,La Virreina,Wine-Beer,none,informal,medium,closed,none,3,89,403.50076447325256,Medium
+1126,135106,false,casual drinker,formal,on foot,single,student,low,El Rinc�n de San Francisco,Wine-Beer,only at bar,informal,medium,open,none,6,29,3.528083484648986,Excellent
+1126,135052,false,casual drinker,formal,on foot,single,student,low,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,4,29,3.646332954425477,Medium
+1126,135041,false,casual drinker,formal,on foot,single,student,low,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,4,29,3.670846818287212,Medium
+1126,135038,false,casual drinker,formal,on foot,single,student,low,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,2,29,3.6687897790236255,Bad
+1126,135054,false,casual drinker,formal,on foot,single,student,low,Restaurante y Pescaderia Tampico,No_Alcohol_Served,none,informal,high,closed,none,4,29,3.126999214429221,Medium
+1126,135108,false,casual drinker,formal,on foot,single,student,low,Potzocalli,No_Alcohol_Served,none,informal,low,closed,none,5,29,2.1793202715751305,Excellent
+1044,134986,true,social drinker,informal,car owner,married,professional,medium,Restaurant Las Mananitas,Wine-Beer,none,formal,high,closed,none,6,50,3.4909787255991387,Excellent
+1124,135054,false,casual drinker,informal,public,single,student,low,Restaurante y Pescaderia Tampico,No_Alcohol_Served,none,informal,high,closed,none,3,28,0.514196124110883,Medium
+1044,132768,true,social drinker,informal,car owner,married,professional,medium,Mariscos Tia Licha,No_Alcohol_Served,not permitted,casual,medium,closed,none,6,50,4.226464601328749,Excellent
+1124,135108,false,casual drinker,informal,public,single,student,low,Potzocalli,No_Alcohol_Served,none,informal,low,closed,none,3,28,1.521281717610929,Medium
+1124,135032,false,casual drinker,informal,public,single,student,low,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,3,28,5.88722305919846,Medium
+1124,135071,false,casual drinker,informal,public,single,student,low,Restaurante la Cantina,Full_Bar,section,informal,medium,closed,none,2,28,1.4400926785642245,Bad
+1124,135070,false,casual drinker,informal,public,single,student,low,Restaurante 75,No_Alcohol_Served,none,informal,medium,closed,none,3,28,1.7957173624390854,Medium
+1124,135069,false,casual drinker,informal,public,single,student,low,Abondance Restaurante Bar,Wine-Beer,none,informal,low,closed,none,3,28,2.704192002979762,Medium
+1124,135081,false,casual drinker,informal,public,single,student,low,El Club,No_Alcohol_Served,none,informal,medium,closed,none,2,28,5.2815303513170075,Bad
+1124,135057,false,casual drinker,informal,public,single,student,low,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,3,28,3.8680732870181673,Medium
+1124,135039,false,casual drinker,informal,public,single,student,low,Restaurant de Mariscos de Picon,No_Alcohol_Served,section,informal,low,closed,none,3,28,5.859429940169042,Medium
+1124,135050,false,casual drinker,informal,public,single,student,low,Restaurante la Estrella de Dima,Wine-Beer,none,informal,high,closed,none,1,28,6.801420331434413,Bad
+1125,135043,false,casual drinker,formal,public,single,student,low,pizza clasica,No_Alcohol_Served,none,informal,medium,closed,none,4,29,1.457354927932327,Medium
+1125,135081,false,casual drinker,formal,public,single,student,low,El Club,No_Alcohol_Served,none,informal,medium,closed,none,2,29,3.033979551183452,Bad
+1125,135076,false,casual drinker,formal,public,single,student,low,Restaurante Pueblo Bonito,Wine-Beer,none,informal,high,closed,none,3,29,2.1091344059125694,Medium
+1018,135082,true,casual drinker,formal,public,single,student,low,la Estrella de Dimas,No_Alcohol_Served,none,informal,medium,closed,none,6,30,4.383591257498981,Excellent
+1125,135050,false,casual drinker,formal,public,single,student,low,Restaurante la Estrella de Dima,Wine-Beer,none,informal,high,closed,none,4,29,2.379003013248097,Medium
+1125,135066,false,casual drinker,formal,public,single,student,low,Restaurante Guerra,Wine-Beer,section,informal,high,closed,none,2,29,3.073600924470095,Bad
+1125,135032,false,casual drinker,formal,public,single,student,low,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,4,29,4.701323685694484,Medium
+1119,134986,false,abstemious,formal,public,single,student,medium,Restaurant Las Mananitas,Wine-Beer,none,formal,high,closed,none,6,27,4.531682343056265,Excellent
+1119,135001,false,abstemious,formal,public,single,student,medium,Vips,Wine-Beer,none,informal,medium,closed,none,6,27,3.173771641067561,Excellent
+1125,135042,false,casual drinker,formal,public,single,student,low,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,3,29,3.9981412960744906,Medium
+1119,132583,false,abstemious,formal,public,single,student,medium,McDonalds Centro,No_Alcohol_Served,not permitted,informal,low,closed,none,6,27,5.426753933792023,Excellent
+1125,135063,false,casual drinker,formal,public,single,student,low,Restaurante Alhondiga,No_Alcohol_Served,none,informal,medium,closed,none,4,29,4.356755371541678,Medium
+1119,132768,false,abstemious,formal,public,single,student,medium,Mariscos Tia Licha,No_Alcohol_Served,not permitted,casual,medium,closed,none,6,27,5.1932147384031,Excellent
+1125,135060,false,casual drinker,formal,public,single,student,low,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,3,29,4.482796633742777,Medium
+1125,135038,false,casual drinker,formal,public,single,student,low,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,5,29,4.5664673949990515,Excellent
+1125,135062,false,casual drinker,formal,public,single,student,low,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,4,29,4.818267076632128,Medium
+1018,135081,true,casual drinker,formal,public,single,student,low,El Club,No_Alcohol_Served,none,informal,medium,closed,none,3,30,5.25848138528397,Medium
+1018,135057,true,casual drinker,formal,public,single,student,low,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,2,30,6.286190775170358,Bad
+1018,135066,true,casual drinker,formal,public,single,student,low,Restaurante Guerra,Wine-Beer,section,informal,high,closed,none,3,30,6.158606482762789,Medium
+1018,135032,true,casual drinker,formal,public,single,student,low,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,3,30,7.142098318325669,Medium
+1018,135062,true,casual drinker,formal,public,single,student,low,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,1,30,7.5340251413578265,Bad
+1018,135025,true,casual drinker,formal,public,single,student,low,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,3,30,7.706947446626613,Medium
+1018,135069,true,casual drinker,formal,public,single,student,low,Abondance Restaurante Bar,Wine-Beer,none,informal,low,closed,none,2,30,6.277418545529959,Bad
+1018,135108,true,casual drinker,formal,public,single,student,low,Potzocalli,No_Alcohol_Served,none,informal,low,closed,none,2,30,6.2688789302276104,Bad
+1076,135039,false,social drinker,elegant,public,married,student,medium,Restaurant de Mariscos de Picon,No_Alcohol_Served,section,informal,low,closed,none,5,32,1.6071357669924629,Excellent
+1076,135038,false,social drinker,elegant,public,married,student,medium,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,5,32,0.8068757871206556,Excellent
+1076,135027,false,social drinker,elegant,public,married,student,medium,Restaurant Orizatlan,Wine-Beer,none,informal,medium,closed,none,2,32,1.537614645005894,Bad
+1076,135042,false,social drinker,elegant,public,married,student,medium,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,6,32,1.2913009756333027,Excellent
+1076,135073,false,social drinker,elegant,public,married,student,medium,Restaurante Bar El Gallinero,Wine-Beer,section,informal,high,closed,none,4,32,1.5526874618007898,Medium
+1022,135033,false,casual drinker,formal,car owner,single,student,medium,Restaurant El Muladar de Calzada,No_Alcohol_Served,section,informal,medium,closed,none,4,29,1.0678560547657583,Medium
+1022,135032,false,casual drinker,formal,car owner,single,student,medium,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,4,29,1.1383389727272422,Medium
+1022,135057,false,casual drinker,formal,car owner,single,student,medium,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,6,29,0.9561435205236907,Excellent
+1022,135060,false,casual drinker,formal,car owner,single,student,medium,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,4,29,1.8422453731352049,Medium
+1022,135052,false,casual drinker,formal,car owner,single,student,medium,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,6,29,1.4275754090808153,Excellent
+1022,135038,false,casual drinker,formal,car owner,single,student,medium,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,5,29,1.7013722304119658,Excellent
+1022,135081,false,casual drinker,formal,car owner,single,student,medium,El Club,No_Alcohol_Served,none,informal,medium,closed,none,3,29,2.047154154002321,Medium
+1022,135045,false,casual drinker,formal,car owner,single,student,medium,Restaurante la Gran Via,Wine-Beer,none,casual,high,closed,none,4,29,1.8656822081889395,Medium
+1022,135051,false,casual drinker,formal,car owner,single,student,medium,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,4,29,1.4011644912998356,Medium
+1022,135073,false,casual drinker,formal,car owner,single,student,medium,Restaurante Bar El Gallinero,Wine-Beer,section,informal,high,closed,none,6,29,1.0239895061834596,Excellent
+1022,135062,false,casual drinker,formal,car owner,single,student,medium,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,4,29,1.7007063993423654,Medium
+1022,135063,false,casual drinker,formal,car owner,single,student,medium,Restaurante Alhondiga,No_Alcohol_Served,none,informal,medium,closed,none,5,29,1.601578091314926,Excellent
+1094,135057,false,abstemious,informal,public,single,student,medium,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,1,28,254.97890506721774,Bad
+1094,135071,false,abstemious,informal,public,single,student,medium,Restaurante la Cantina,Full_Bar,section,informal,medium,closed,none,1,28,253.26343064243363,Bad
+1094,132830,false,abstemious,informal,public,single,student,medium,Rincon Huasteco,No_Alcohol_Served,none,informal,low,closed,none,1,28,253.4677995331524,Bad
+1094,135070,false,abstemious,informal,public,single,student,medium,Restaurante 75,No_Alcohol_Served,none,informal,medium,closed,none,1,28,251.4974761394323,Bad
+1094,135108,false,abstemious,informal,public,single,student,medium,Potzocalli,No_Alcohol_Served,none,informal,low,closed,none,2,28,254.1461926565937,Bad
+1094,135069,false,abstemious,informal,public,single,student,medium,Abondance Restaurante Bar,Wine-Beer,none,informal,low,closed,none,1,28,254.67529568117033,Bad
+1116,135047,false,social drinker,formal,public,married,student,medium,Restaurante Casa de las Flores,Wine-Beer,section,informal,high,closed,none,6,32,1.0527539913934936,Excellent
+1116,135038,false,social drinker,formal,public,married,student,medium,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,6,32,0.8068757871206556,Excellent
+1116,135085,false,social drinker,formal,public,married,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,32,0.693406728471395,Excellent
+1116,135052,false,social drinker,formal,public,married,student,medium,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,6,32,1.035482894036711,Excellent
+1116,135025,false,social drinker,formal,public,married,student,medium,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,6,32,1.0939507725652569,Excellent
+1116,135059,false,social drinker,formal,public,married,student,medium,Restaurant Bar Hacienda los Martinez,Wine-Beer,section,informal,medium,closed,none,4,32,1.3241913845116768,Medium
+1116,135027,false,social drinker,formal,public,married,student,medium,Restaurant Orizatlan,Wine-Beer,none,informal,medium,closed,none,4,32,1.537614645005894,Medium
+1116,132825,false,social drinker,formal,public,married,student,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,6,32,1.0363302991765728,Excellent
+1116,135030,false,social drinker,formal,public,married,student,medium,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,medium,closed,Internet,5,32,1.0339526897118647,Excellent
+1116,132834,false,social drinker,formal,public,married,student,medium,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,6,32,0.0,Excellent
+1075,135081,false,casual drinker,informal,car owner,single,student,medium,El Club,No_Alcohol_Served,none,informal,medium,closed,none,4,28,0.3029243257774707,Medium
+1075,135066,false,casual drinker,informal,car owner,single,student,medium,Restaurante Guerra,Wine-Beer,section,informal,high,closed,none,5,28,1.251148222536085,Excellent
+1075,135050,false,casual drinker,informal,car owner,single,student,medium,Restaurante la Estrella de Dima,Wine-Beer,none,informal,high,closed,none,6,28,1.3489450616933263,Excellent
+1007,135108,false,casual drinker,informal,public,single,student,low,Potzocalli,No_Alcohol_Served,none,informal,low,closed,none,3,30,2.027941040789059,Medium
+1075,135076,false,casual drinker,informal,car owner,single,student,medium,Restaurante Pueblo Bonito,Wine-Beer,none,informal,high,closed,none,4,28,2.020639242729223,Medium
+1007,135057,false,casual drinker,informal,public,single,student,low,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,4,30,3.5096843562318125,Medium
+1075,135032,false,casual drinker,informal,car owner,single,student,medium,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,3,28,2.1506910218572988,Medium
+1075,132834,false,casual drinker,informal,car owner,single,student,medium,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,4,28,2.873252594077025,Medium
+1075,135057,false,casual drinker,informal,car owner,single,student,medium,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,4,28,2.4504298458217395,Medium
+1075,132830,false,casual drinker,informal,car owner,single,student,medium,Rincon Huasteco,No_Alcohol_Served,none,informal,low,closed,none,3,28,2.819605174618312,Medium
+1075,135062,false,casual drinker,informal,car owner,single,student,medium,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,2,28,2.4632427302959266,Bad
+1075,135039,false,casual drinker,informal,car owner,single,student,medium,Restaurant de Mariscos de Picon,No_Alcohol_Served,section,informal,low,closed,none,4,28,2.828982328821277,Medium
+1075,135051,false,casual drinker,informal,car owner,single,student,medium,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,3,28,2.501459158412307,Medium
+1075,135041,false,casual drinker,informal,car owner,single,student,medium,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,2,28,2.5547353323949364,Bad
+1115,135057,true,social drinker,elegant,public,single,student,low,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,6,29,3.6746169742881545,Excellent
+1115,135082,true,social drinker,elegant,public,single,student,low,la Estrella de Dimas,No_Alcohol_Served,none,informal,medium,closed,none,6,29,1.577216558922003,Excellent
+1115,135054,true,social drinker,elegant,public,single,student,low,Restaurante y Pescaderia Tampico,No_Alcohol_Served,none,informal,high,closed,none,1,29,0.5722070046410653,Bad
+1115,135108,true,social drinker,elegant,public,single,student,low,Potzocalli,No_Alcohol_Served,none,informal,low,closed,none,5,29,1.3645287059603548,Excellent
+1115,135069,true,social drinker,elegant,public,single,student,low,Abondance Restaurante Bar,Wine-Beer,none,informal,low,closed,none,2,29,2.5227640253300336,Bad
+1115,132830,true,social drinker,elegant,public,single,student,low,Rincon Huasteco,No_Alcohol_Served,none,informal,low,closed,none,6,29,2.433917472021164,Excellent
+1115,135070,true,social drinker,elegant,public,single,student,low,Restaurante 75,No_Alcohol_Served,none,informal,medium,closed,none,3,29,1.7282573482998076,Medium
+1115,135071,true,social drinker,elegant,public,single,student,low,Restaurante la Cantina,Full_Bar,section,informal,medium,closed,none,6,29,1.6344617376017814,Excellent
+1024,132834,,abstemious,,,,,,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,3,89,1.017914211912599,Medium
+1024,135106,,abstemious,,,,,,El Rinc�n de San Francisco,Wine-Beer,only at bar,informal,medium,open,none,3,89,0.4775467262520435,Medium
+1024,135042,,abstemious,,,,,,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,4,89,0.6496092744047764,Medium
+1024,132825,,abstemious,,,,,,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,2,89,1.0342870115303122,Bad
+1024,135060,,abstemious,,,,,,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,3,89,0.4057911218702964,Medium
+1024,135032,,abstemious,,,,,,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,6,89,0.3127834925013271,Excellent
+1024,135039,,abstemious,,,,,,Restaurant de Mariscos de Picon,No_Alcohol_Served,section,informal,low,closed,none,6,89,0.9079242915438116,Excellent
+1024,135045,,abstemious,,,,,,Restaurante la Gran Via,Wine-Beer,none,casual,high,closed,none,4,89,0.6720136829779991,Medium
+1024,135027,,abstemious,,,,,,Restaurant Orizatlan,Wine-Beer,none,informal,medium,closed,none,3,89,0.7776642269890272,Medium
+1024,135073,,abstemious,,,,,,Restaurante Bar El Gallinero,Wine-Beer,section,informal,high,closed,none,3,89,0.77948561594362,Medium
+1024,135051,,abstemious,,,,,,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,2,89,0.33110325260240414,Bad
+1024,135041,,abstemious,,,,,,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,3,89,0.36852262589629203,Medium
+1024,135038,,abstemious,,,,,,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,2,89,0.2544684836872885,Bad
+1024,135028,,abstemious,,,,,,La Virreina,Wine-Beer,none,informal,medium,closed,none,3,89,1.4132777441042939,Medium
+1024,135030,,abstemious,,,,,,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,medium,closed,Internet,3,89,1.5445306565651207,Medium
+1132,135038,false,casual drinker,informal,public,single,student,,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,3,28,0.8263983906929171,Medium
+1132,132825,false,casual drinker,informal,public,single,student,,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,6,28,0.2889235550600155,Excellent
+1132,135085,false,casual drinker,informal,public,single,student,,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,28,0.09474348533671927,Excellent
+1132,135062,false,casual drinker,informal,public,single,student,,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,4,28,0.5792941450250456,Medium
+1132,135025,false,casual drinker,informal,public,single,student,,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,4,28,0.5212486588118123,Medium
+1132,135052,false,casual drinker,informal,public,single,student,,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,6,28,0.586564528425469,Excellent
+1132,135028,false,casual drinker,informal,public,single,student,,La Virreina,Wine-Beer,none,informal,medium,closed,none,6,28,0.5712759618007953,Excellent
+1132,135032,false,casual drinker,informal,public,single,student,,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,2,28,1.0191187738887506,Bad
+1132,135051,false,casual drinker,informal,public,single,student,,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,2,28,0.6269149268780234,Bad
+1132,135027,false,casual drinker,informal,public,single,student,,Restaurant Orizatlan,Wine-Beer,none,informal,medium,closed,none,3,28,0.9326458550660447,Medium
+1005,135050,false,abstemious,no preference,public,single,student,medium,Restaurante la Estrella de Dima,Wine-Beer,none,informal,high,closed,none,4,27,1.4752463595326653,Medium
+1005,135076,false,abstemious,no preference,public,single,student,medium,Restaurante Pueblo Bonito,Wine-Beer,none,informal,high,closed,none,5,27,1.4412258818223218,Excellent
+1005,132830,false,abstemious,no preference,public,single,student,medium,Rincon Huasteco,No_Alcohol_Served,none,informal,low,closed,none,2,27,4.167466933372322,Bad
+1005,135066,false,abstemious,no preference,public,single,student,medium,Restaurante Guerra,Wine-Beer,section,informal,high,closed,none,4,27,2.118439948942178,Medium
+1005,135041,false,abstemious,no preference,public,single,student,medium,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,3,27,4.030357205832999,Medium
+1005,135057,false,abstemious,no preference,public,single,student,medium,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,4,27,4.1799000147042165,Medium
+1005,135043,false,abstemious,no preference,public,single,student,medium,pizza clasica,No_Alcohol_Served,none,informal,medium,closed,none,2,27,1.6053456571539806,Bad
+1005,135042,false,abstemious,no preference,public,single,student,medium,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,5,27,3.01296448533568,Excellent
+1005,135032,false,abstemious,no preference,public,single,student,medium,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,5,27,3.7076388163433673,Excellent
+1120,132845,false,abstemious,informal,public,single,student,low,Cenaduria El Rincón de Tlaquepaque,No_Alcohol_Served,none,informal,medium,closed,none,3,89,0.6097781592651504,Medium
+1120,135032,false,abstemious,informal,public,single,student,low,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,3,89,7.903970954587793,Medium
+1120,135045,false,abstemious,informal,public,single,student,low,Restaurante la Gran Via,Wine-Beer,none,casual,high,closed,none,5,89,8.63074615344735,Excellent
+1004,135060,false,abstemious,informal,public,single,professional,medium,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,3,79,409.53572533684417,Medium
+1004,135028,false,abstemious,informal,public,single,professional,medium,La Virreina,Wine-Beer,none,informal,medium,closed,none,6,79,408.9503101902034,Excellent
+1004,135106,false,abstemious,informal,public,single,professional,medium,El Rinc�n de San Francisco,Wine-Beer,only at bar,informal,medium,open,none,6,79,408.7172359424376,Excellent
+1120,135057,false,abstemious,informal,public,single,student,low,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,6,89,5.886449939656637,Excellent
+1004,135062,false,abstemious,informal,public,single,professional,medium,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,5,79,409.2496549450268,Excellent
+1120,135026,false,abstemious,informal,public,single,student,low,la Cantina,Full_Bar,none,informal,high,closed,none,3,89,10.437323530099526,Medium
+1004,135032,false,abstemious,informal,public,single,professional,medium,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,6,79,408.86520226084286,Excellent
+1120,132846,false,abstemious,informal,public,single,student,low,el lechon potosino ,No_Alcohol_Served,permitted,casual,low,open,none,5,89,4.558987722059659,Excellent
+1077,135027,false,social drinker,elegant,public,married,student,medium,Restaurant Orizatlan,Wine-Beer,none,informal,medium,closed,none,2,32,1.537614645005894,Bad
+1120,132847,false,abstemious,informal,public,single,student,low,don burguers,No_Alcohol_Served,none,informal,low,open,none,6,89,4.226026853576286,Excellent
+1037,135054,false,social drinker,no preference,public,single,student,low,Restaurante y Pescaderia Tampico,No_Alcohol_Served,none,informal,high,closed,none,4,29,1.8928713239184602,Medium
+1037,135108,false,social drinker,no preference,public,single,student,low,Potzocalli,No_Alcohol_Served,none,informal,low,closed,none,6,29,3.7478027063983674,Excellent
+1037,132847,false,social drinker,no preference,public,single,student,low,don burguers,No_Alcohol_Served,none,informal,low,open,none,3,29,3.8580327761508637,Medium
+1037,132830,false,social drinker,no preference,public,single,student,low,Rincon Huasteco,No_Alcohol_Served,none,informal,low,closed,none,6,29,4.045700935654863,Excellent
+1035,135000,true,casual drinker,no preference,car owner,single,student,medium,Restaurant los Pinos,No_Alcohol_Served,none,informal,medium,closed,none,6,34,3.4346508160388023,Excellent
+1035,134996,true,casual drinker,no preference,car owner,single,student,medium,Sanborns Casa Piedra,Wine-Beer,only at bar,informal,medium,closed,Internet,5,34,9.30470314448334,Excellent
+1035,134986,true,casual drinker,no preference,car owner,single,student,medium,Restaurant Las Mananitas,Wine-Beer,none,formal,high,closed,none,6,34,10.001795823159428,Excellent
+1052,132851,true,social drinker,no preference,on foot,single,student,low,KFC,No_Alcohol_Served,not permitted,informal,low,closed,none,3,29,0.19739654494186717,Medium
+1036,132834,false,social drinker,informal,public,single,student,medium,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,5,28,0.6053293491140326,Excellent
+1036,135064,false,social drinker,informal,public,single,student,medium,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,5,28,0.9879555594743267,Excellent
+1036,135079,false,social drinker,informal,public,single,student,medium,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,6,28,1.0323009755413366,Excellent
+1036,135042,false,social drinker,informal,public,single,student,medium,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,6,28,1.65652961345975,Excellent
+1036,135085,false,social drinker,informal,public,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,28,1.285869938306729,Excellent
+1036,135025,false,social drinker,informal,public,single,student,medium,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,6,28,1.6982406213509367,Excellent
+1036,132825,false,social drinker,informal,public,single,student,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,6,28,1.5986652762952958,Excellent
+1036,135059,false,social drinker,informal,public,single,student,medium,Restaurant Bar Hacienda los Martinez,Wine-Beer,section,informal,medium,closed,none,6,28,1.712416623121755,Excellent
+1036,135052,false,social drinker,informal,public,single,student,medium,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,6,28,1.6314313247813055,Excellent
+1036,132754,false,social drinker,informal,public,single,student,medium,Cabana Huasteca,No_Alcohol_Served,none,informal,medium,closed,none,6,28,1.426515320277378,Excellent
+1036,135045,false,social drinker,informal,public,single,student,medium,Restaurante la Gran Via,Wine-Beer,none,casual,high,closed,none,6,28,1.3033075773490175,Excellent
+1038,132854,true,social drinker,no preference,public,single,student,low,Sirlone,Wine-Beer,none,informal,medium,closed,none,5,89,1.4478572698551755,Excellent
+1038,132856,true,social drinker,no preference,public,single,student,low,Unicols Pizza,Wine-Beer,none,informal,low,closed,none,2,89,4.267450011116649,Bad
+1038,132858,true,social drinker,no preference,public,single,student,low,Hamburguesas Valle Dorado,No_Alcohol_Served,none,informal,low,closed,none,3,89,0.9071341266683457,Medium
+1038,132861,true,social drinker,no preference,public,single,student,low,Carls Jr,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,89,7.9843176548076915,Medium
+1038,132862,true,social drinker,no preference,public,single,student,low,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,6,89,5.247694731691289,Excellent
+1071,132862,false,abstemious,formal,car owner,single,student,high,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,6,89,1.2717240427860792,Excellent
+1071,135063,false,abstemious,formal,car owner,single,student,high,Restaurante Alhondiga,No_Alcohol_Served,none,informal,medium,closed,none,5,89,0.26501761428628806,Excellent
+1071,135052,false,abstemious,formal,car owner,single,student,high,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,6,89,0.4287849182025487,Excellent
+1071,135060,false,abstemious,formal,car owner,single,student,high,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,5,89,0.4294889984526561,Excellent
+1071,135042,false,abstemious,formal,car owner,single,student,high,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,6,89,0.5902753671991414,Excellent
+1071,132825,false,abstemious,formal,car owner,single,student,high,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,6,89,1.1094210446896269,Excellent
+1071,132856,false,abstemious,formal,car owner,single,student,high,Unicols Pizza,Wine-Beer,none,informal,low,closed,none,6,89,0.33589851258849546,Excellent
+1071,135032,false,abstemious,formal,car owner,single,student,high,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,6,89,0.28103642225187797,Excellent
+1071,132834,false,abstemious,formal,car owner,single,student,high,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,3,89,1.0780341302144576,Medium
+1071,135039,false,abstemious,formal,car owner,single,student,high,Restaurant de Mariscos de Picon,No_Alcohol_Served,section,informal,low,closed,none,6,89,0.9365115236208589,Excellent
+1071,135028,false,abstemious,formal,car owner,single,student,high,La Virreina,Wine-Beer,none,informal,medium,closed,none,6,89,1.4914398802096052,Excellent
+1071,135025,false,abstemious,formal,car owner,single,student,high,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,6,89,0.5955677728495646,Excellent
+1071,135030,false,abstemious,formal,car owner,single,student,high,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,medium,closed,Internet,6,89,1.6235677415110195,Excellent
+1084,135058,true,casual drinker,formal,public,single,student,medium,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,3,28,0.8966812315067672,Medium
+1084,132862,true,casual drinker,formal,public,single,student,medium,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,6,28,3.0997068067945444,Excellent
+1084,135072,true,casual drinker,formal,public,single,student,medium,Sushi Itto,No_Alcohol_Served,none,informal,medium,closed,none,6,28,2.599954498664721,Excellent
+1084,135030,true,casual drinker,formal,public,single,student,medium,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,medium,closed,Internet,6,28,3.204477716415877,Excellent
+1084,135026,true,casual drinker,formal,public,single,student,medium,la Cantina,Full_Bar,none,informal,high,closed,none,6,28,2.6821608906663665,Excellent
+1084,135035,true,casual drinker,formal,public,single,student,medium,El Mundo de la Pasta,No_Alcohol_Served,section,informal,high,closed,none,6,28,3.217333328280132,Excellent
+1084,135045,true,casual drinker,formal,public,single,student,medium,Restaurante la Gran Via,Wine-Beer,none,casual,high,closed,none,6,28,3.4194906921994193,Excellent
+1084,132861,true,casual drinker,formal,public,single,student,medium,Carls Jr,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,28,2.9554098873057133,Excellent
+1084,135085,true,casual drinker,formal,public,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,28,3.384049693822446,Excellent
+1084,132723,true,casual drinker,formal,public,single,student,medium,Gordas de morales,Full_Bar,section,informal,medium,closed,none,2,28,2.989127784435801,Bad
+1069,132851,false,social drinker,no preference,public,single,professional,medium,KFC,No_Alcohol_Served,not permitted,informal,low,closed,none,1,36,361.47552174883737,Bad
+1069,132847,false,social drinker,no preference,public,single,professional,medium,don burguers,No_Alcohol_Served,none,informal,low,open,none,2,36,362.3312552652606,Bad
+1113,135038,false,casual drinker,formal,public,single,student,medium,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,3,29,6.889655034551034,Medium
+1113,135057,false,casual drinker,formal,public,single,student,medium,El Herradero Restaurante and Bar,Wine-Beer,section,informal,medium,closed,none,5,29,4.355020748699827,Excellent
+1113,135085,false,casual drinker,formal,public,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,29,7.246475211784501,Medium
+1113,135079,false,casual drinker,formal,public,single,student,medium,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,4,29,8.959789650595813,Medium
+1113,135046,false,casual drinker,formal,public,single,student,medium,Restaurante El Reyecito,No_Alcohol_Served,none,informal,medium,closed,none,5,29,9.194052513580806,Excellent
+1113,132856,false,casual drinker,formal,public,single,student,medium,Unicols Pizza,Wine-Beer,none,informal,low,closed,none,1,29,6.451507077389432,Bad
+1104,135039,true,social drinker,no preference,car owner,single,student,medium,Restaurant de Mariscos de Picon,No_Alcohol_Served,section,informal,low,closed,none,1,28,0.48315383547581015,Bad
+1104,132825,true,social drinker,no preference,car owner,single,student,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,4,28,0.5398741109113976,Medium
+1104,135085,true,social drinker,no preference,car owner,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,28,0.507603120340869,Excellent
+1104,135030,true,social drinker,no preference,car owner,single,student,medium,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,medium,closed,Internet,4,28,1.174230633552569,Medium
+1104,135062,true,social drinker,no preference,car owner,single,student,medium,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,4,28,0.5280806944769687,Medium
+1104,132834,true,social drinker,no preference,car owner,single,student,medium,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,4,28,1.1241543004356498,Medium
+1106,132754,false,casual drinker,informal,car owner,single,professional,medium,Cabana Huasteca,No_Alcohol_Served,none,informal,medium,closed,none,5,89,403.77216736915807,Excellent
+1104,135052,true,social drinker,no preference,car owner,single,student,medium,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,3,28,0.23177372316945466,Medium
+1106,132856,false,casual drinker,informal,car owner,single,professional,medium,Unicols Pizza,Wine-Beer,none,informal,low,closed,none,1,89,403.3485566893426,Bad
+1104,135032,true,social drinker,no preference,car owner,single,student,medium,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,4,28,0.6163693553845035,Medium
+1104,135025,true,social drinker,no preference,car owner,single,student,medium,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,4,28,0.06323258604138064,Medium
+1106,132834,false,casual drinker,informal,car owner,single,professional,medium,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,4,89,404.3760457312109,Medium
+1104,135047,true,social drinker,no preference,car owner,single,student,medium,Restaurante Casa de las Flores,Wine-Beer,section,informal,high,closed,none,4,28,1.630786814265349,Medium
+1106,135042,false,casual drinker,informal,car owner,single,professional,medium,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,2,89,404.0691153416064,Bad
+1106,135039,false,casual drinker,informal,car owner,single,professional,medium,Restaurant de Mariscos de Picon,No_Alcohol_Served,section,informal,low,closed,none,4,89,402.8242163414499,Medium
+1052,132866,true,social drinker,no preference,on foot,single,student,low,Chaires,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,29,0.5977682024580069,Excellent
+1106,135066,false,casual drinker,informal,car owner,single,professional,medium,Restaurante Guerra,Wine-Beer,section,informal,high,closed,none,5,89,404.9030100494451,Excellent
+1106,135085,false,casual drinker,informal,car owner,single,professional,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,89,403.68359110205904,Excellent
+1104,135033,true,social drinker,no preference,car owner,single,student,medium,Restaurant El Muladar de Calzada,No_Alcohol_Served,section,informal,medium,closed,none,4,28,0.9683717120552928,Medium
+1106,135062,false,casual drinker,informal,car owner,single,professional,medium,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,5,89,403.78935429742813,Excellent
+1106,132862,false,casual drinker,informal,car owner,single,professional,medium,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,6,89,403.87945833939114,Excellent
+1106,135030,false,casual drinker,informal,car owner,single,professional,medium,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,medium,closed,Internet,5,89,403.73005265542616,Excellent
+1106,135079,false,casual drinker,informal,car owner,single,professional,medium,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,6,89,404.99293987773945,Excellent
+1106,135064,false,casual drinker,informal,car owner,single,professional,medium,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,6,89,404.74322129468663,Excellent
+1052,132869,true,social drinker,no preference,on foot,single,student,low,Dominos Pizza,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,29,1.2950587756449845,Excellent
+1052,132870,true,social drinker,no preference,on foot,single,student,low,Tortas y hamburguesas el gordo,No_Alcohol_Served,not permitted,informal,low,closed,none,3,29,0.558861310041412,Medium
+1104,135041,true,social drinker,no preference,car owner,single,student,medium,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,4,28,0.23319071323220864,Medium
+1079,134986,false,abstemious,formal,public,single,,medium,Restaurant Las Mananitas,Wine-Beer,none,formal,high,closed,none,6,27,1.710507805253702,Excellent
+1079,134976,false,abstemious,formal,public,single,,medium,Log Yin,No_Alcohol_Served,none,informal,low,closed,none,2,27,2.411633154002589,Bad
+1079,132768,false,abstemious,formal,public,single,,medium,Mariscos Tia Licha,No_Alcohol_Served,not permitted,casual,medium,closed,none,6,27,2.0710095990360813,Excellent
+1079,132766,false,abstemious,formal,public,single,,medium,Mikasa,Wine-Beer,none,informal,medium,closed,none,4,27,2.0857963707583442,Medium
+1045,132825,false,casual drinker,elegant,car owner,single,student,high,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,4,28,1.0404278858987006,Medium
+1045,132856,false,casual drinker,elegant,car owner,single,student,high,Unicols Pizza,Wine-Beer,none,informal,low,closed,none,5,28,1.1567229460458355,Excellent
+1045,135085,false,casual drinker,elegant,car owner,single,student,high,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,28,0.6759057923878429,Excellent
+1045,132834,false,casual drinker,elegant,car owner,single,student,high,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,3,28,0.1342088036396753,Medium
+1045,135052,false,casual drinker,elegant,car owner,single,student,high,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,5,28,0.9510757358958318,Excellent
+1045,135060,false,casual drinker,elegant,car owner,single,student,high,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,6,28,0.5967660699380017,Excellent
+1045,135051,false,casual drinker,elegant,car owner,single,student,high,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,6,28,0.9637224812179462,Excellent
+1045,135041,false,casual drinker,elegant,car owner,single,student,high,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,4,28,0.9263412240602745,Medium
+1009,132754,false,abstemious,formal,on foot,single,student,medium,Cabana Huasteca,No_Alcohol_Served,none,informal,medium,closed,none,4,28,1.2944779403474542,Medium
+1009,132862,false,abstemious,formal,on foot,single,student,medium,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,5,28,1.0351447980705804,Excellent
+1009,135060,false,abstemious,formal,on foot,single,student,medium,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,3,28,1.2656978038810884,Medium
+1009,135059,false,abstemious,formal,on foot,single,student,medium,Restaurant Bar Hacienda los Martinez,Wine-Beer,section,informal,medium,closed,none,4,28,1.5882978000149421,Medium
+1009,132834,false,abstemious,formal,on foot,single,student,medium,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,5,28,0.6029703182005294,Excellent
+1009,135058,false,abstemious,formal,on foot,single,student,medium,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,4,28,1.3084061349017602,Medium
+1009,135038,false,abstemious,formal,on foot,single,student,medium,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,6,28,1.373220679568772,Excellent
+1009,132825,false,abstemious,formal,on foot,single,student,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,2,28,1.53351747998844,Bad
+1009,135052,false,abstemious,formal,on foot,single,student,medium,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,3,28,1.6379204236928078,Medium
+1009,135079,false,abstemious,formal,on foot,single,student,medium,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,5,28,0.8827915048584534,Excellent
+1016,132834,false,casual drinker,informal,on foot,single,student,medium,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,6,28,0.8397829210473529,Excellent
+1016,135042,false,casual drinker,informal,on foot,single,student,medium,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,5,28,0.5367135602900617,Excellent
+1016,135032,false,casual drinker,informal,on foot,single,student,medium,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,6,28,0.5805755326217215,Excellent
+1016,135106,false,casual drinker,informal,on foot,single,student,medium,El Rinc�n de San Francisco,Wine-Beer,only at bar,informal,medium,open,none,6,28,0.7364774659067159,Excellent
+1016,132856,false,casual drinker,informal,on foot,single,student,medium,Unicols Pizza,Wine-Beer,none,informal,low,closed,none,6,28,0.6100858023395076,Excellent
+1016,135045,false,casual drinker,informal,on foot,single,student,medium,Restaurante la Gran Via,Wine-Beer,none,casual,high,closed,none,6,28,0.7201133022318438,Excellent
+1016,135060,false,casual drinker,informal,on foot,single,student,medium,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,6,28,0.13205627027684183,Excellent
+1016,135066,false,casual drinker,informal,on foot,single,student,medium,Restaurante Guerra,Wine-Beer,section,informal,high,closed,none,6,28,1.4336408111323755,Excellent
+1016,135085,false,casual drinker,informal,on foot,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,28,0.812364935345077,Medium
+1016,135052,false,casual drinker,informal,on foot,single,student,medium,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,6,28,0.5831174758129885,Excellent
+1016,132862,false,casual drinker,informal,on foot,single,student,medium,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,6,28,1.169740888621318,Excellent
+1016,135051,false,casual drinker,informal,on foot,single,student,medium,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,4,28,0.5612071412878729,Medium
+1016,135062,false,casual drinker,informal,on foot,single,student,medium,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,6,28,0.32811634915169896,Excellent
+1095,132872,false,abstemious,formal,public,married,student,medium,Pizzeria Julios,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,33,2.5651943802895456,Excellent
+1095,135034,false,abstemious,formal,public,married,student,medium,Michiko Restaurant Japones,No_Alcohol_Served,none,informal,medium,closed,none,6,33,4.367179814867001,Excellent
+1095,135058,false,abstemious,formal,public,married,student,medium,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,5,33,2.3819578756017923,Excellent
+1034,135086,false,casual drinker,informal,public,single,student,medium,Mcdonalds Parque Tangamanga,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,29,0.47678200592502384,Medium
+1095,132861,false,abstemious,formal,public,married,student,medium,Carls Jr,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,33,3.520147050925418,Medium
+1034,132723,false,casual drinker,informal,public,single,student,medium,Gordas de morales,Full_Bar,section,informal,medium,closed,none,2,29,1.472684430161759,Bad
+1095,132723,false,abstemious,formal,public,married,student,medium,Gordas de morales,Full_Bar,section,informal,medium,closed,none,6,33,3.427715630607196,Excellent
+1095,135086,false,abstemious,formal,public,married,student,medium,Mcdonalds Parque Tangamanga,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,33,4.283266525217056,Medium
+1095,135055,false,abstemious,formal,public,married,student,medium,la Cochinita Pibil Restaurante Yucateco,No_Alcohol_Served,section,informal,high,closed,none,6,33,3.587715708287969,Excellent
+1007,135058,false,casual drinker,informal,public,single,student,low,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,4,30,8.335939976073425,Medium
+1007,135085,false,casual drinker,informal,public,single,student,low,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,30,5.816027718312219,Medium
+1095,135064,false,abstemious,formal,public,married,student,medium,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,3,33,3.590146040076095,Medium
+1095,135035,false,abstemious,formal,public,married,student,medium,El Mundo de la Pasta,No_Alcohol_Served,section,informal,high,closed,none,6,33,3.771036438193228,Excellent
+1095,135072,false,abstemious,formal,public,married,student,medium,Sushi Itto,No_Alcohol_Served,none,informal,medium,closed,none,6,33,3.7588311130140406,Excellent
+1007,135025,false,casual drinker,informal,public,single,student,low,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,3,30,5.351167987824474,Medium
+1007,135032,false,casual drinker,informal,public,single,student,low,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,2,30,5.234299023698927,Bad
+1007,132572,false,casual drinker,informal,public,single,student,low,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,3,30,6.176803214289424,Medium
+1007,135038,false,casual drinker,informal,public,single,student,low,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,2,30,5.7940049985643025,Bad
+1078,132885,true,social drinker,informal,car owner,single,professional,medium,Hamburguesas saul,No_Alcohol_Served,none,informal,low,closed,none,3,36,0.9561445871836619,Medium
+1099,135076,true,social drinker,informal,public,single,student,high,Restaurante Pueblo Bonito,Wine-Beer,none,informal,high,closed,none,2,30,0.5311367219860348,Bad
+1099,132834,true,social drinker,informal,public,single,student,high,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,6,30,3.504276504758079,Excellent
+1008,132866,false,social drinker,formal,public,single,student,low,Chaires,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,30,2.1619258265387997,Medium
+1008,132858,false,social drinker,formal,public,single,student,low,Hamburguesas Valle Dorado,No_Alcohol_Served,none,informal,low,closed,none,4,30,1.6588163019056779,Medium
+1099,135043,true,social drinker,informal,public,single,student,high,pizza clasica,No_Alcohol_Served,none,informal,medium,closed,none,6,30,2.684892604653082,Excellent
+1008,132854,false,social drinker,formal,public,single,student,low,Sirlone,Wine-Beer,none,informal,medium,closed,none,5,30,2.226128193950165,Excellent
+1099,132872,true,social drinker,informal,public,single,student,high,Pizzeria Julios,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,30,2.7780364323310667,Medium
+1008,135108,false,social drinker,formal,public,single,student,low,Potzocalli,No_Alcohol_Served,none,informal,low,closed,none,2,30,1.781627342690145,Bad
+1008,132851,false,social drinker,formal,public,single,student,low,KFC,No_Alcohol_Served,not permitted,informal,low,closed,none,3,30,1.896353083365771,Medium
+1099,132856,true,social drinker,informal,public,single,student,high,Unicols Pizza,Wine-Beer,none,informal,low,closed,none,2,30,3.7317681020229028,Bad
+1008,132869,false,social drinker,formal,public,single,student,low,Dominos Pizza,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,30,2.0208279994323264,Medium
+1099,135066,true,social drinker,informal,public,single,student,high,Restaurante Guerra,Wine-Beer,section,informal,high,closed,none,3,30,1.839231554797183,Medium
+1008,135069,false,social drinker,formal,public,single,student,low,Abondance Restaurante Bar,Wine-Beer,none,informal,low,closed,none,3,30,2.885001093899987,Medium
+1099,135038,true,social drinker,informal,public,single,student,high,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,2,30,3.319496952225063,Bad
+1099,135060,true,social drinker,informal,public,single,student,high,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,6,30,3.204851922688391,Excellent
+1099,135045,true,social drinker,informal,public,single,student,high,Restaurante la Gran Via,Wine-Beer,none,casual,high,closed,none,3,30,3.9052188758187696,Medium
+1008,132846,false,social drinker,formal,public,single,student,low,el lechon potosino ,No_Alcohol_Served,permitted,casual,low,open,none,3,30,2.887677663275511,Medium
+1008,135054,false,social drinker,formal,public,single,student,low,Restaurante y Pescaderia Tampico,No_Alcohol_Served,none,informal,high,closed,none,3,30,2.126449073456511,Medium
+1099,135042,true,social drinker,informal,public,single,student,high,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,3,30,2.839769051401798,Medium
+1040,132773,false,abstemious,no preference,public,single,student,medium,El cotorreo,Wine-Beer,permitted,informal,low,open,none,3,25,4.209745397018741,Medium
+1040,134999,false,abstemious,no preference,public,single,student,medium,Kiku Cuernavaca,No_Alcohol_Served,none,informal,medium,closed,none,3,25,2.288931452121218,Medium
+1040,135013,false,abstemious,no preference,public,single,student,medium,Giovannis,No_Alcohol_Served,none,informal,low,closed,none,6,25,2.8954757091213277,Excellent
+1040,135019,false,abstemious,no preference,public,single,student,medium,Restaurant Bar Coty y Pablo,No_Alcohol_Served,none,informal,low,closed,none,4,25,3.141416829221612,Medium
+1110,135021,false,abstemious,no preference,car owner,single,student,medium,Subway,No_Alcohol_Served,not permitted,informal,low,closed,none,4,26,7.998108320223433,Medium
+1110,132767,false,abstemious,no preference,car owner,single,student,medium,Restaurant Familiar El Chino,Wine-Beer,permitted,casual,medium,open,variety,6,26,2.4236596154175167,Excellent
+1110,135013,false,abstemious,no preference,car owner,single,student,medium,Giovannis,No_Alcohol_Served,none,informal,low,closed,none,6,26,5.384131329396883,Excellent
+1110,134999,false,abstemious,no preference,car owner,single,student,medium,Kiku Cuernavaca,No_Alcohol_Served,none,informal,medium,closed,none,6,26,4.844910703815974,Excellent
+1121,135019,false,social drinker,no preference,public,married,working-class,medium,Restaurant Bar Coty y Pablo,No_Alcohol_Served,none,informal,low,closed,none,6,32,2.5381276625050377,Excellent
+1121,132767,false,social drinker,no preference,public,married,working-class,medium,Restaurant Familiar El Chino,Wine-Beer,permitted,casual,medium,open,variety,6,32,2.4229432763954675,Excellent
+1121,134999,false,social drinker,no preference,public,married,working-class,medium,Kiku Cuernavaca,No_Alcohol_Served,none,informal,medium,closed,none,6,32,4.845390148213828,Excellent
+1042,132768,false,abstemious,no preference,car owner,single,student,high,Mariscos Tia Licha,No_Alcohol_Served,not permitted,casual,medium,closed,none,5,76,1.3743001492652183,Excellent
+1042,135021,false,abstemious,no preference,car owner,single,student,high,Subway,No_Alcohol_Served,not permitted,informal,low,closed,none,3,76,0.9123652638420777,Medium
+1042,134996,false,abstemious,no preference,car owner,single,student,high,Sanborns Casa Piedra,Wine-Beer,only at bar,informal,medium,closed,Internet,6,76,0.4233774140316485,Excellent
+1013,135079,false,abstemious,no preference,public,widow,professional,medium,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,3,37,2.0728527519737954,Medium
+1013,135072,false,abstemious,no preference,public,widow,professional,medium,Sushi Itto,No_Alcohol_Served,none,informal,medium,closed,none,4,37,2.9672442608370764,Medium
+1013,135085,false,abstemious,no preference,public,widow,professional,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,37,2.8794444367617325,Medium
+1013,135076,false,abstemious,no preference,public,widow,professional,medium,Restaurante Pueblo Bonito,Wine-Beer,none,informal,high,closed,none,2,37,2.2060390539007524,Bad
+1054,135062,false,social drinker,formal,public,single,student,medium,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,4,27,0.5067429683382184,Medium
+1054,135060,false,social drinker,formal,public,single,student,medium,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,6,27,0.7592396362725222,Excellent
+1054,135039,false,social drinker,formal,public,single,student,medium,Restaurant de Mariscos de Picon,No_Alcohol_Served,section,informal,low,closed,none,5,27,0.5326376349765395,Excellent
+1054,135052,false,social drinker,formal,public,single,student,medium,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,5,27,0.21606059623055693,Excellent
+1054,132856,false,social drinker,formal,public,single,student,medium,Unicols Pizza,Wine-Beer,none,informal,low,closed,none,6,27,0.10613329020461602,Excellent
+1054,135051,false,social drinker,formal,public,single,student,medium,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,4,27,0.1856660035848931,Medium
+1054,135025,false,social drinker,formal,public,single,student,medium,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,6,27,0.29871050799245646,Excellent
+1054,135041,false,social drinker,formal,public,single,student,medium,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,6,27,0.242622927117111,Excellent
+1054,135038,false,social drinker,formal,public,single,student,medium,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,4,27,0.6043183053556173,Medium
+1054,135032,false,social drinker,formal,public,single,student,medium,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,3,27,0.27621130201514876,Medium
+1054,135045,false,social drinker,formal,public,single,student,medium,Restaurante la Gran Via,Wine-Beer,none,casual,high,closed,none,5,27,0.6674832892899928,Excellent
+1042,134986,false,abstemious,no preference,car owner,single,student,high,Restaurant Las Mananitas,Wine-Beer,none,formal,high,closed,none,6,76,2.1252904902918694,Excellent
+1042,134992,false,abstemious,no preference,car owner,single,student,high,Restaurant Teely,Wine-Beer,section,casual,high,closed,none,4,76,3.1653219168423403,Medium
+1111,132845,true,casual drinker,formal,car owner,single,student,medium,Cenaduria El Rincón de Tlaquepaque,No_Alcohol_Served,none,informal,medium,closed,none,5,28,2.023209862050186,Excellent
+1111,135071,true,casual drinker,formal,car owner,single,student,medium,Restaurante la Cantina,Full_Bar,section,informal,medium,closed,none,6,28,1.8660980222552488,Excellent
+1111,132858,true,casual drinker,formal,car owner,single,student,medium,Hamburguesas Valle Dorado,No_Alcohol_Served,none,informal,low,closed,none,3,28,3.23292844274109,Medium
+1111,132854,true,casual drinker,formal,car owner,single,student,medium,Sirlone,Wine-Beer,none,informal,medium,closed,none,6,28,3.128369222740937,Excellent
+1111,132877,true,casual drinker,formal,car owner,single,student,medium,sirloin stockade,No_Alcohol_Served,none,informal,low,closed,none,3,28,2.8566993640272593,Medium
+1037,135071,false,social drinker,no preference,public,single,student,low,Restaurante la Cantina,Full_Bar,section,informal,medium,closed,none,1,29,2.858906099312338,Bad
+1111,132851,true,casual drinker,formal,car owner,single,student,medium,KFC,No_Alcohol_Served,not permitted,informal,low,closed,none,3,28,2.7738656175129255,Medium
+1111,135108,true,casual drinker,formal,car owner,single,student,medium,Potzocalli,No_Alcohol_Served,none,informal,low,closed,none,3,28,2.6936146597876847,Medium
+1037,132869,false,social drinker,no preference,public,single,student,low,Dominos Pizza,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,29,2.613500686830077,Medium
+1037,132851,false,social drinker,no preference,public,single,student,low,KFC,No_Alcohol_Served,not permitted,informal,low,closed,none,5,29,3.8135354788101408,Excellent
+1111,135082,true,casual drinker,formal,car owner,single,student,medium,la Estrella de Dimas,No_Alcohol_Served,none,informal,medium,closed,none,1,28,1.1485507768771677,Bad
+1037,132854,false,social drinker,no preference,public,single,student,low,Sirlone,Wine-Beer,none,informal,medium,closed,none,3,29,4.134916841552857,Medium
+1015,132845,true,social drinker,informal,public,single,student,medium,Cenaduria El Rincón de Tlaquepaque,No_Alcohol_Served,none,informal,medium,closed,none,3,30,0.46023207884792317,Medium
+1015,132866,true,social drinker,informal,public,single,student,medium,Chaires,No_Alcohol_Served,not permitted,informal,medium,closed,none,2,30,3.1328550151839263,Bad
+1015,132870,true,social drinker,informal,public,single,student,medium,Tortas y hamburguesas el gordo,No_Alcohol_Served,not permitted,informal,low,closed,none,1,30,3.607859268901956,Bad
+1015,135054,true,social drinker,informal,public,single,student,medium,Restaurante y Pescaderia Tampico,No_Alcohol_Served,none,informal,high,closed,none,3,30,1.8759765734576916,Medium
+1015,132869,true,social drinker,informal,public,single,student,medium,Dominos Pizza,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,30,2.5096858074214503,Excellent
+1015,132851,true,social drinker,informal,public,single,student,medium,KFC,No_Alcohol_Served,not permitted,informal,low,closed,none,3,30,3.2297513722327498,Medium
+1015,132877,true,social drinker,informal,public,single,student,medium,sirloin stockade,No_Alcohol_Served,none,informal,low,closed,none,4,30,3.21257445445398,Medium
+1101,135039,false,casual drinker,no preference,car owner,single,student,low,Restaurant de Mariscos de Picon,No_Alcohol_Served,section,informal,low,closed,none,3,31,0.5534441786130986,Medium
+1101,135027,false,casual drinker,no preference,car owner,single,student,low,Restaurant Orizatlan,Wine-Beer,none,informal,medium,closed,none,4,31,0.41681978443271384,Medium
+1101,135073,false,casual drinker,no preference,car owner,single,student,low,Restaurante Bar El Gallinero,Wine-Beer,section,informal,high,closed,none,3,31,0.41645347309095926,Medium
+1101,132856,false,casual drinker,no preference,car owner,single,student,low,Unicols Pizza,Wine-Beer,none,informal,low,closed,none,2,31,0.06012405296322495,Bad
+1101,135032,false,casual drinker,no preference,car owner,single,student,low,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,5,31,0.228041549996996,Excellent
+1101,135038,false,casual drinker,no preference,car owner,single,student,low,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,5,31,0.6048370164015267,Excellent
+1101,135051,false,casual drinker,no preference,car owner,single,student,low,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,4,31,0.22595385727246967,Medium
+1101,135052,false,casual drinker,no preference,car owner,single,student,low,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,4,31,0.2602383953484049,Medium
+1001,135085,false,abstemious,informal,on foot,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,2,30,1.2615353103506626,Bad
+1001,135040,false,abstemious,informal,on foot,single,student,medium,Restaurant los Compadres,Wine-Beer,none,informal,high,closed,none,3,30,1.0561099468863302,Medium
+1001,135039,false,abstemious,informal,on foot,single,student,medium,Restaurant de Mariscos de Picon,No_Alcohol_Served,section,informal,low,closed,none,3,30,0.768673299096948,Medium
+1001,135045,false,abstemious,informal,on foot,single,student,medium,Restaurante la Gran Via,Wine-Beer,none,casual,high,closed,none,3,30,1.2770455379920234,Medium
+1001,135033,false,abstemious,informal,on foot,single,student,medium,Restaurant El Muladar de Calzada,No_Alcohol_Served,section,informal,medium,closed,none,3,30,0.6106915016370598,Medium
+1001,135025,false,abstemious,informal,on foot,single,student,medium,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,6,30,1.0613094168461874,Excellent
+1001,135051,false,abstemious,informal,on foot,single,student,medium,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,4,30,1.2523199170573187,Medium
+1032,132872,false,abstemious,formal,public,single,student,medium,Pizzeria Julios,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,30,0.9376226824152684,Medium
+1032,135058,false,abstemious,formal,public,single,student,medium,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,3,30,1.5406936020059963,Medium
+1032,135079,false,abstemious,formal,public,single,student,medium,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,4,30,1.8496936464502853,Medium
+1032,135085,false,abstemious,formal,public,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,30,2.0802824616800875,Medium
+1032,135042,false,abstemious,formal,public,single,student,medium,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,1,30,1.7616703167871341,Bad
+1032,132856,false,abstemious,formal,public,single,student,medium,Unicols Pizza,Wine-Beer,none,informal,low,closed,none,2,30,2.33954061864845,Bad
+1032,135038,false,abstemious,formal,public,single,student,medium,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,2,30,1.7669128182604277,Bad
+1032,132834,false,abstemious,formal,public,single,student,medium,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,2,30,1.414363267263461,Bad
+1032,135060,false,abstemious,formal,public,single,student,medium,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,3,30,1.612000286150149,Medium
+1048,135049,true,casual drinker,no preference,public,single,student,medium,Restaurante de Mariscos la Langosta,No_Alcohol_Served,none,informal,medium,closed,none,3,31,0.9974834108126533,Medium
+1048,135026,true,casual drinker,no preference,public,single,student,medium,la Cantina,Full_Bar,none,informal,high,closed,none,6,31,2.331446168612808,Excellent
+1048,135034,true,casual drinker,no preference,public,single,student,medium,Michiko Restaurant Japones,No_Alcohol_Served,none,informal,medium,closed,none,5,31,0.23416237440925253,Excellent
+1048,135048,true,casual drinker,no preference,public,single,student,medium,Restaurante Bar Fu-hao,Wine-Beer,none,informal,high,closed,none,1,31,2.4283505775112735,Bad
+1048,135065,true,casual drinker,no preference,public,single,student,medium,El angel Restaurante,Wine-Beer,section,informal,high,closed,none,4,31,2.531349094222744,Medium
+1048,132755,true,casual drinker,no preference,public,single,student,medium,La Estrella de Dimas,No_Alcohol_Served,none,informal,medium,closed,variety,6,31,1.2754437336514413,Excellent
+1048,132723,true,casual drinker,no preference,public,single,student,medium,Gordas de morales,Full_Bar,section,informal,medium,closed,none,6,31,0.8041355641743975,Excellent
+1092,135071,false,abstemious,formal,public,single,,medium,Restaurante la Cantina,Full_Bar,section,informal,medium,closed,none,1,29,3.8150378416965895,Bad
+1092,132572,false,abstemious,formal,public,single,,medium,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,1,29,4.963303737762836,Bad
+1092,135025,false,abstemious,formal,public,single,,medium,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,4,29,4.099102437328476,Medium
+1092,132723,false,abstemious,formal,public,single,,medium,Gordas de morales,Full_Bar,section,informal,medium,closed,none,3,29,7.868674209551752,Medium
+1051,134996,false,casual drinker,no preference,public,single,professional,medium,Sanborns Casa Piedra,Wine-Beer,only at bar,informal,medium,closed,Internet,4,40,5.106906832359262,Medium
+1013,132875,false,abstemious,no preference,public,widow,professional,medium,shi ro ie,Wine-Beer,section,informal,high,open,Internet,5,37,2.7376226701452717,Excellent
+1085,135043,false,abstemious,no preference,car owner,single,student,,pizza clasica,No_Alcohol_Served,none,informal,medium,closed,none,6,31,1.4846351827052353,Excellent
+1085,135050,false,abstemious,no preference,car owner,single,student,,Restaurante la Estrella de Dima,Wine-Beer,none,informal,high,closed,none,6,31,4.304887706898215,Excellent
+1085,135076,false,abstemious,no preference,car owner,single,student,,Restaurante Pueblo Bonito,Wine-Beer,none,informal,high,closed,none,6,31,4.222410604458413,Excellent
+1085,135081,false,abstemious,no preference,car owner,single,student,,El Club,No_Alcohol_Served,none,informal,medium,closed,none,6,31,4.326676241997474,Excellent
+1109,135028,false,abstemious,formal,public,single,student,low,La Virreina,Wine-Beer,none,informal,medium,closed,none,6,30,18.68877887146261,Excellent
+1109,132856,false,abstemious,formal,public,single,student,low,Unicols Pizza,Wine-Beer,none,informal,low,closed,none,3,30,18.738747905290484,Medium
+1085,135059,false,abstemious,no preference,car owner,single,student,,Restaurant Bar Hacienda los Martinez,Wine-Beer,section,informal,medium,closed,none,5,31,7.928911587059466,Excellent
+1109,132825,false,abstemious,formal,public,single,student,low,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,6,30,18.776473192723657,Excellent
+1085,132872,false,abstemious,no preference,car owner,single,student,,Pizzeria Julios,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,31,6.5347580381150685,Medium
+1085,135055,false,abstemious,no preference,car owner,single,student,,la Cochinita Pibil Restaurante Yucateco,No_Alcohol_Served,section,informal,high,closed,none,6,31,9.13921249817565,Excellent
+1109,135032,false,abstemious,formal,public,single,student,low,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,6,30,18.68189252015523,Excellent
+1085,132825,false,abstemious,no preference,car owner,single,student,,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,6,31,7.291916375326525,Excellent
+1109,135063,false,abstemious,formal,public,single,student,low,Restaurante Alhondiga,No_Alcohol_Served,none,informal,medium,closed,none,6,30,18.16619195656141,Excellent
+1109,135042,false,abstemious,formal,public,single,student,low,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,6,30,18.007939765836223,Excellent
+1109,135058,false,abstemious,formal,public,single,student,low,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,6,30,16.213766858416296,Excellent
+1109,135085,false,abstemious,formal,public,single,student,low,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,30,18.446903934375676,Excellent
+1109,135038,false,abstemious,formal,public,single,student,low,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,6,30,18.171832133981905,Excellent
+1109,132872,false,abstemious,formal,public,single,student,low,Pizzeria Julios,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,30,15.641849966043058,Medium
+1078,135081,true,social drinker,informal,car owner,single,professional,medium,El Club,No_Alcohol_Served,none,informal,medium,closed,none,3,36,0.8517195641125149,Medium
+1078,135060,true,social drinker,informal,car owner,single,professional,medium,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,6,36,2.3083388692995648,Excellent
+1078,135106,true,social drinker,informal,car owner,single,professional,medium,El Rinc�n de San Francisco,Wine-Beer,only at bar,informal,medium,open,none,6,36,2.8144721088038485,Excellent
+1078,135041,true,social drinker,informal,car owner,single,professional,medium,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,5,36,2.7671566796914555,Excellent
+1078,132834,true,social drinker,informal,car owner,single,professional,medium,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,3,36,2.8825655847134626,Medium
+1078,135052,true,social drinker,informal,car owner,single,professional,medium,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,6,36,2.760917638955847,Excellent
+1102,132846,false,social drinker,no preference,on foot,single,student,low,el lechon potosino ,No_Alcohol_Served,permitted,casual,low,open,none,6,30,0.5901316146532976,Excellent
+1098,132885,false,social drinker,formal,public,single,student,medium,Hamburguesas saul,No_Alcohol_Served,none,informal,low,closed,none,2,28,0.5991955246183447,Bad
+1098,135060,false,social drinker,formal,public,single,student,medium,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,5,28,3.250546787732713,Excellent
+1098,132856,false,social drinker,formal,public,single,student,medium,Unicols Pizza,Wine-Beer,none,informal,low,closed,none,4,28,3.648759475151078,Medium
+1046,135026,false,social drinker,no preference,car owner,single,student,medium,la Cantina,Full_Bar,none,informal,high,closed,none,3,29,7.048472928818085,Medium
+1122,135066,,abstemious,,,,,,Restaurante Guerra,Wine-Beer,section,informal,high,closed,none,4,89,2.001063088652199,Medium
+1122,135065,,abstemious,,,,,,El angel Restaurante,Wine-Beer,section,informal,high,closed,none,6,89,2.3562004712146054,Excellent
+1122,132872,,abstemious,,,,,,Pizzeria Julios,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,89,0.527217538962501,Excellent
+1122,135058,,abstemious,,,,,,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,4,89,1.071428668679603,Medium
+1122,132834,,abstemious,,,,,,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,4,89,1.5919245888204092,Medium
+1122,132754,,abstemious,,,,,,Cabana Huasteca,No_Alcohol_Served,none,informal,medium,closed,none,5,89,2.424140871043252,Excellent
+1122,135079,,abstemious,,,,,,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,6,89,1.612070875545401,Excellent
+1122,135038,,abstemious,,,,,,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,6,89,2.118360826379204,Excellent
+1122,135085,,abstemious,,,,,,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,89,2.2852311128095435,Excellent
+1122,135030,,abstemious,,,,,,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,medium,closed,Internet,4,89,2.4173918633162215,Medium
+1122,135064,,abstemious,,,,,,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,3,89,1.7239611375881558,Medium
+1122,135053,,abstemious,,,,,,La Fontana Pizza Restaurante and Cafe,No_Alcohol_Served,section,informal,high,closed,none,6,89,2.4033608947143024,Excellent
+1138,132921,false,social drinker,formal,public,single,student,medium,crudalia,Wine-Beer,section,casual,low,open,none,5,28,5.11098823551065,Excellent
+1138,132922,false,social drinker,formal,public,single,student,medium,cafe punta del cielo,No_Alcohol_Served,permitted,formal,medium,closed,none,6,28,4.403528790925336,Excellent
+1138,132925,false,social drinker,formal,public,single,student,medium,el pueblito,Wine-Beer,not permitted,informal,medium,closed,none,4,28,3.773874911777028,Medium
+1013,132921,false,abstemious,no preference,public,widow,professional,medium,crudalia,Wine-Beer,section,casual,low,open,none,5,37,2.7369110529812426,Excellent
+1098,135085,false,social drinker,formal,public,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,28,4.049559628468037,Medium
+1098,132825,false,social drinker,formal,public,single,student,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,3,28,4.401180825085969,Medium
+1098,135079,false,social drinker,formal,public,single,student,medium,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,4,28,4.640752908611535,Medium
+1098,135032,false,social drinker,formal,public,single,student,medium,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,medium,closed,none,4,28,3.495763183289529,Medium
+1098,135038,false,social drinker,formal,public,single,student,medium,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,3,28,3.336656410260238,Medium
+1098,132861,false,social drinker,formal,public,single,student,medium,Carls Jr,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,28,6.758324207647236,Excellent
+1098,135046,false,social drinker,formal,public,single,student,medium,Restaurante El Reyecito,No_Alcohol_Served,none,informal,medium,closed,none,4,28,6.139474082682009,Medium
+1098,132862,false,social drinker,formal,public,single,student,medium,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,5,28,4.303108634909141,Excellent
+1098,132921,false,social drinker,formal,public,single,student,medium,crudalia,Wine-Beer,section,casual,low,open,none,4,28,4.461241009851519,Medium
+1034,135035,false,casual drinker,informal,public,single,student,medium,El Mundo de la Pasta,No_Alcohol_Served,section,informal,high,closed,none,3,29,1.079783610824203,Medium
+1033,135065,false,social drinker,no preference,on foot,single,student,low,El angel Restaurante,Wine-Beer,section,informal,high,closed,none,3,28,1.7085431894648957,Medium
+1033,135028,false,social drinker,no preference,on foot,single,student,low,La Virreina,Wine-Beer,none,informal,medium,closed,none,4,28,0.5712759618007953,Medium
+1033,135085,false,social drinker,no preference,on foot,single,student,low,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,28,0.09474348533671927,Excellent
+1033,135046,false,social drinker,no preference,on foot,single,student,low,Restaurante El Reyecito,No_Alcohol_Served,none,informal,medium,closed,none,4,28,2.2738873827866386,Medium
+1033,135045,false,social drinker,no preference,on foot,single,student,low,Restaurante la Gran Via,Wine-Beer,none,casual,high,closed,none,5,28,0.18142020610895246,Excellent
+1033,132951,false,social drinker,no preference,on foot,single,student,low,VIPS,No_Alcohol_Served,not permitted,casual,low,closed,none,3,28,0.5738956556763002,Medium
+1033,132572,false,social drinker,no preference,on foot,single,student,low,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,1,28,1.3635154704378356,Bad
+1033,132921,false,social drinker,no preference,on foot,single,student,low,crudalia,Wine-Beer,section,casual,low,open,none,4,28,0.6336108611387731,Medium
+1033,135075,false,social drinker,no preference,on foot,single,student,low,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,3,28,1.4538131909073482,Medium
+1033,135038,false,social drinker,no preference,on foot,single,student,low,Restaurant la Chalita,No_Alcohol_Served,section,informal,medium,closed,none,3,28,0.8263983906929171,Medium
+1033,135030,false,social drinker,no preference,on foot,single,student,low,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,medium,closed,Internet,4,28,0.7076829718625257,Medium
+1089,135058,true,casual drinker,informal,public,single,student,low,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,3,29,0.9042246981554404,Medium
+1089,135064,true,casual drinker,informal,public,single,student,low,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,3,29,0.9432814693056344,Medium
+1089,135028,true,casual drinker,informal,public,single,student,low,La Virreina,Wine-Beer,none,informal,medium,closed,none,3,29,1.8636486294664578,Medium
+1089,132951,true,casual drinker,informal,public,single,student,low,VIPS,No_Alcohol_Served,not permitted,casual,low,closed,none,3,29,1.1714969250858698,Medium
+1089,132921,true,casual drinker,informal,public,single,student,low,crudalia,Wine-Beer,section,casual,low,open,none,3,29,1.418463329737487,Medium
+1003,132825,false,social drinker,formal,public,single,student,low,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,5,30,4.851090558828077,Excellent
+1089,132754,true,casual drinker,informal,public,single,student,low,Cabana Huasteca,No_Alcohol_Served,none,informal,medium,closed,none,3,29,1.6618596093709024,Medium
+1003,135075,false,social drinker,formal,public,single,student,low,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,6,30,5.13419698336041,Excellent
+1089,135026,true,casual drinker,informal,public,single,student,low,la Cantina,Full_Bar,none,informal,high,closed,none,3,29,1.753156395031075,Medium
+1003,132862,false,social drinker,formal,public,single,student,low,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,5,30,5.392131619919597,Excellent
+1089,132872,true,casual drinker,informal,public,single,student,low,Pizzeria Julios,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,29,1.2311733714304949,Medium
+1089,135085,true,casual drinker,informal,public,single,student,low,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,29,1.690451744960743,Medium
+1003,135041,false,social drinker,formal,public,single,student,low,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,2,30,4.718142258496594,Bad
+1089,135072,true,casual drinker,informal,public,single,student,low,Sushi Itto,No_Alcohol_Served,none,informal,medium,closed,none,3,29,1.7930267018012265,Medium
+1089,132834,true,casual drinker,informal,public,single,student,low,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,3,29,1.0334948453585642,Medium
+1003,132937,false,social drinker,formal,public,single,student,low,rockabilly ,Full_Bar,section,informal,low,closed,variety,5,30,4.799013829422369,Excellent
+1089,132875,true,casual drinker,informal,public,single,student,low,shi ro ie,Wine-Beer,section,informal,high,open,Internet,3,29,1.4035483846611723,Medium
+1003,132922,false,social drinker,formal,public,single,student,low,cafe punta del cielo,No_Alcohol_Served,permitted,formal,medium,closed,none,6,30,5.06276463027564,Excellent
+1091,132825,false,casual drinker,no preference,car owner,single,student,low,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,2,30,3.6066973369274304,Bad
+1091,135075,false,casual drinker,no preference,car owner,single,student,low,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,6,30,4.697206236620226,Excellent
+1003,132723,false,social drinker,formal,public,single,student,low,Gordas de morales,Full_Bar,section,informal,medium,closed,none,5,30,8.22101723702744,Excellent
+1091,132861,false,casual drinker,no preference,car owner,single,student,low,Carls Jr,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,30,7.081778775394093,Medium
+1003,132755,false,social drinker,formal,public,single,student,low,La Estrella de Dimas,No_Alcohol_Served,none,informal,medium,closed,variety,5,30,8.395562687645016,Excellent
+1091,132875,false,casual drinker,no preference,car owner,single,student,low,shi ro ie,Wine-Beer,section,informal,high,open,Internet,5,30,4.647894546885509,Excellent
+1003,135080,false,social drinker,formal,public,single,student,low,los Toneles,No_Alcohol_Served,section,informal,high,closed,none,5,30,5.993951952205216,Excellent
+1091,135086,false,casual drinker,no preference,car owner,single,student,low,Mcdonalds Parque Tangamanga,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,30,6.857998141895582,Medium
+1003,135079,false,social drinker,formal,public,single,student,low,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,6,30,6.704357131718196,Excellent
+1091,135080,false,casual drinker,no preference,car owner,single,student,low,los Toneles,No_Alcohol_Served,section,informal,high,closed,none,2,30,5.162225309664302,Bad
+1027,132921,true,social drinker,no preference,public,single,student,low,crudalia,Wine-Beer,section,casual,low,open,none,3,30,1.6582858283389421,Medium
+1091,132572,false,casual drinker,no preference,car owner,single,student,low,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,6,30,4.7330102619518115,Excellent
+1027,135052,true,social drinker,no preference,public,single,student,low,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,3,30,1.8554774168221209,Medium
+1091,132884,false,casual drinker,no preference,car owner,single,student,low,dairy queen,No_Alcohol_Served,none,informal,low,closed,none,6,30,8.306219177574627,Excellent
+1091,135035,false,casual drinker,no preference,car owner,single,student,low,El Mundo de la Pasta,No_Alcohol_Served,section,informal,high,closed,none,3,30,7.18685925732262,Medium
+1027,132937,true,social drinker,no preference,public,single,student,low,rockabilly ,Full_Bar,section,informal,low,closed,variety,3,30,1.8283041564560045,Medium
+1027,132951,true,social drinker,no preference,public,single,student,low,VIPS,No_Alcohol_Served,not permitted,casual,low,closed,none,3,30,1.1887490874133384,Medium
+1027,132925,true,social drinker,no preference,public,single,student,low,el pueblito,Wine-Beer,not permitted,informal,medium,closed,none,3,30,1.7025857265437008,Medium
+1027,132872,true,social drinker,no preference,public,single,student,low,Pizzeria Julios,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,30,1.2194377578503004,Medium
+1027,132875,true,social drinker,no preference,public,single,student,low,shi ro ie,Wine-Beer,section,informal,high,open,Internet,3,30,1.8270012431149694,Medium
+1027,135085,true,social drinker,no preference,public,single,student,low,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,30,1.6505111338673204,Medium
+1027,135042,true,social drinker,no preference,public,single,student,low,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,3,30,1.5428502726823827,Medium
+1027,135062,true,social drinker,no preference,public,single,student,low,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,3,30,1.511469299366864,Medium
+1029,135047,true,casual drinker,formal,public,single,student,low,Restaurante Casa de las Flores,Wine-Beer,section,informal,high,closed,none,3,29,0.49976466027144784,Medium
+1029,135059,true,casual drinker,formal,public,single,student,low,Restaurant Bar Hacienda los Martinez,Wine-Beer,section,informal,medium,closed,none,4,29,0.742176283347345,Medium
+1029,132937,true,casual drinker,formal,public,single,student,low,rockabilly ,Full_Bar,section,informal,low,closed,variety,3,29,0.96460670019993,Medium
+1029,135085,true,casual drinker,formal,public,single,student,low,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,29,0.6687783712014507,Medium
+1029,132834,true,casual drinker,formal,public,single,student,low,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,1,29,0.6330215244027537,Bad
+1029,132825,true,casual drinker,formal,public,single,student,low,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,2,29,0.7865692311880601,Bad
+1029,132921,true,casual drinker,formal,public,single,student,low,crudalia,Wine-Beer,section,casual,low,open,none,3,29,0.1652128803260557,Medium
+1029,132862,true,casual drinker,formal,public,single,student,low,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,3,29,0.24792325219029748,Medium
+1029,132922,true,casual drinker,formal,public,single,student,low,cafe punta del cielo,No_Alcohol_Served,permitted,formal,medium,closed,none,3,29,0.7015007368093216,Medium
+1086,135063,false,social drinker,no preference,car owner,single,student,medium,Restaurante Alhondiga,No_Alcohol_Served,none,informal,medium,closed,none,3,28,0.9184410373681573,Medium
+1086,132921,false,social drinker,no preference,car owner,single,student,medium,crudalia,Wine-Beer,section,casual,low,open,none,3,28,0.9116558593393816,Medium
+1086,135085,false,social drinker,no preference,car owner,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,28,0.7400481645826834,Medium
+1086,132922,false,social drinker,no preference,car owner,single,student,medium,cafe punta del cielo,No_Alcohol_Served,permitted,formal,medium,closed,none,5,28,0.7151209386006907,Excellent
+1086,132937,false,social drinker,no preference,car owner,single,student,medium,rockabilly ,Full_Bar,section,informal,low,closed,variety,3,28,0.9294817619159957,Medium
+1086,135045,false,social drinker,no preference,car owner,single,student,medium,Restaurante la Gran Via,Wine-Beer,none,casual,high,closed,none,6,28,0.7278593772705284,Excellent
+1086,135041,false,social drinker,no preference,car owner,single,student,medium,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,6,28,0.9817242051952055,Excellent
+1086,135060,false,social drinker,no preference,car owner,single,student,medium,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,3,28,0.615825590249767,Medium
+1086,132951,false,social drinker,no preference,car owner,single,student,medium,VIPS,No_Alcohol_Served,not permitted,casual,low,closed,none,3,28,0.3414434590738876,Medium
+1137,132951,false,social drinker,formal,public,single,student,low,VIPS,No_Alcohol_Served,not permitted,casual,low,closed,none,6,30,4.3813665582926475,Excellent
+1137,135085,false,social drinker,formal,public,single,student,low,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,30,3.9815677211117464,Excellent
+1137,132834,false,social drinker,formal,public,single,student,low,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,6,30,4.413962910992705,Excellent
+1090,132572,false,social drinker,no preference,car owner,single,student,medium,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,4,31,2.0567095040730776,Medium
+1137,132862,false,social drinker,formal,public,single,student,low,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,6,30,4.420475907717887,Excellent
+1137,135058,false,social drinker,formal,public,single,student,low,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,4,30,6.280303858045427,Medium
+1137,135059,false,social drinker,formal,public,single,student,low,Restaurant Bar Hacienda los Martinez,Wine-Beer,section,informal,medium,closed,none,4,30,4.634342586139313,Medium
+1137,135062,false,social drinker,formal,public,single,student,low,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,6,30,3.6837941699529804,Excellent
+1137,132825,false,social drinker,formal,public,single,student,low,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,5,30,3.9786536329882356,Excellent
+1137,132723,false,social drinker,formal,public,single,student,low,Gordas de morales,Full_Bar,section,informal,medium,closed,none,6,30,7.773031189946474,Excellent
+1137,132755,false,social drinker,formal,public,single,student,low,La Estrella de Dimas,No_Alcohol_Served,none,informal,medium,closed,variety,6,30,7.7859719619284995,Excellent
+1137,135042,false,social drinker,formal,public,single,student,low,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,6,30,3.3786627360877795,Excellent
+1137,132884,false,social drinker,formal,public,single,student,low,dairy queen,No_Alcohol_Served,none,informal,low,closed,none,6,30,8.608816855790643,Excellent
+1137,135049,false,social drinker,formal,public,single,student,low,Restaurante de Mariscos la Langosta,No_Alcohol_Served,none,informal,medium,closed,none,6,30,8.730705771942008,Excellent
+1137,135075,false,social drinker,formal,public,single,student,low,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,6,30,4.876889390974413,Excellent
+1114,132872,false,abstemious,no preference,on foot,single,student,medium,Pizzeria Julios,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,28,2.0616021677848413,Medium
+1114,132755,false,abstemious,no preference,on foot,single,student,medium,La Estrella de Dimas,No_Alcohol_Served,none,informal,medium,closed,variety,4,28,2.759985356843071,Medium
+1061,132825,false,social drinker,no preference,car owner,single,professional,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,4,29,4.784905475456105,Medium
+1061,135048,false,social drinker,no preference,car owner,single,professional,medium,Restaurante Bar Fu-hao,Wine-Beer,none,informal,high,closed,none,6,29,6.390705083247471,Excellent
+1061,132921,false,social drinker,no preference,car owner,single,professional,medium,crudalia,Wine-Beer,section,casual,low,open,none,4,29,5.456464985871208,Medium
+1061,135026,false,social drinker,no preference,car owner,single,professional,medium,la Cantina,Full_Bar,none,informal,high,closed,none,6,29,6.660470649788945,Excellent
+1061,132723,false,social drinker,no preference,car owner,single,professional,medium,Gordas de morales,Full_Bar,section,informal,medium,closed,none,5,29,8.565367975289522,Excellent
+1061,135075,false,social drinker,no preference,car owner,single,professional,medium,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,6,29,5.59646270987749,Excellent
+1061,135034,false,social drinker,no preference,car owner,single,professional,medium,Michiko Restaurant Japones,No_Alcohol_Served,none,informal,medium,closed,none,6,29,8.675884018306105,Excellent
+1061,135041,false,social drinker,no preference,car owner,single,professional,medium,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,6,29,4.325668955588861,Excellent
+1013,132572,false,abstemious,no preference,public,widow,professional,medium,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,2,37,3.6535755133763494,Bad
+1013,135075,false,abstemious,no preference,public,widow,professional,medium,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,5,37,3.8885818764356452,Excellent
+1061,135046,false,social drinker,no preference,car owner,single,professional,medium,Restaurante El Reyecito,No_Alcohol_Served,none,informal,medium,closed,none,4,29,6.77182850907954,Medium
+1061,132572,false,social drinker,no preference,car owner,single,professional,medium,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,5,29,5.715801490980256,Excellent
+1061,135058,false,social drinker,no preference,car owner,single,professional,medium,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,3,29,7.162587485548056,Medium
+1046,135044,false,social drinker,no preference,car owner,single,student,medium,Restaurant Wu Zhuo Yi,No_Alcohol_Served,none,informal,medium,closed,none,2,29,6.6471992779169815,Bad
+1046,135065,false,social drinker,no preference,car owner,single,student,medium,El angel Restaurante,Wine-Beer,section,informal,high,closed,none,6,29,6.87952224558426,Excellent
+1046,132921,false,social drinker,no preference,car owner,single,student,medium,crudalia,Wine-Beer,section,casual,low,open,none,5,29,5.817151125658843,Excellent
+1046,135085,false,social drinker,no preference,car owner,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,29,5.163397844825825,Medium
+1046,132572,false,social drinker,no preference,car owner,single,student,medium,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,3,29,6.157393047079254,Medium
+1046,135058,false,social drinker,no preference,car owner,single,student,medium,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,5,29,7.41282092647067,Excellent
+1046,132951,false,social drinker,no preference,car owner,single,student,medium,VIPS,No_Alcohol_Served,not permitted,casual,low,closed,none,4,29,5.55034820569439,Medium
+1046,132861,false,social drinker,no preference,car owner,single,student,medium,Carls Jr,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,29,8.695836711249084,Excellent
+1041,135001,false,abstemious,no preference,on foot,single,professional,medium,Vips,Wine-Beer,none,informal,medium,closed,none,3,34,0.9505765716561809,Medium
+1041,134983,false,abstemious,no preference,on foot,single,professional,medium,Restaurant and Bar and Clothesline Carlos N Charlies,Full_Bar,section,informal,high,closed,none,6,34,1.493442641178978,Excellent
+1041,135021,false,abstemious,no preference,on foot,single,professional,medium,Subway,No_Alcohol_Served,not permitted,informal,low,closed,none,6,34,1.4591262263852445,Excellent
+1041,134992,false,abstemious,no preference,on foot,single,professional,medium,Restaurant Teely,Wine-Beer,section,casual,high,closed,none,6,34,1.183506087056514,Excellent
+1041,132768,false,abstemious,no preference,on foot,single,professional,medium,Mariscos Tia Licha,No_Alcohol_Served,not permitted,casual,medium,closed,none,5,34,1.1094377003765925,Excellent
+1041,135109,false,abstemious,no preference,on foot,single,professional,medium,Paniroles,Wine-Beer,not permitted,informal,medium,closed,Internet,4,34,1.4869076751763768,Medium
+1004,132954,false,abstemious,informal,public,single,professional,medium,la parroquia,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,79,410.3355784688601,Excellent
+1004,132955,false,abstemious,informal,public,single,professional,medium,emilianos,Wine-Beer,none,informal,low,closed,variety,6,79,410.1563687755475,Excellent
+1004,132958,false,abstemious,informal,public,single,professional,medium,tacos los volcanes,No_Alcohol_Served,none,informal,low,closed,none,6,79,409.6755740840235,Excellent
+1003,132754,false,social drinker,formal,public,single,student,low,Cabana Huasteca,No_Alcohol_Served,none,informal,medium,closed,none,6,30,5.4979021297109645,Excellent
+1059,135064,false,abstemious,formal,on foot,single,student,medium,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,2,32,402.62186916410167,Bad
+1059,135075,false,abstemious,formal,on foot,single,student,medium,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,5,32,400.9107318280327,Excellent
+1059,135028,false,abstemious,formal,on foot,single,student,medium,La Virreina,Wine-Beer,none,informal,medium,closed,none,3,32,401.3687603047162,Medium
+1061,132834,false,social drinker,no preference,car owner,single,professional,medium,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,4,29,5.283134669002222,Medium
+1061,135086,false,social drinker,no preference,car owner,single,professional,medium,Mcdonalds Parque Tangamanga,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,29,7.9063776543794715,Medium
+1061,132754,false,social drinker,no preference,car owner,single,professional,medium,Cabana Huasteca,No_Alcohol_Served,none,informal,medium,closed,none,6,29,5.5577256981376255,Excellent
+1061,135080,false,social drinker,no preference,car owner,single,professional,medium,los Toneles,No_Alcohol_Served,section,informal,high,closed,none,6,29,6.277239195120265,Excellent
+1090,135062,false,social drinker,no preference,car owner,single,student,medium,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,6,31,0.755361394158115,Excellent
+1090,135052,false,social drinker,no preference,car owner,single,student,medium,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,6,31,1.090124755360344,Excellent
+1112,135026,true,casual drinker,formal,car owner,single,student,medium,la Cantina,Full_Bar,none,informal,high,closed,none,3,28,9.587719090970392,Medium
+1112,135064,true,casual drinker,formal,car owner,single,student,medium,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,2,28,9.177722748261502,Bad
+1090,132862,false,social drinker,no preference,car owner,single,student,medium,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,6,31,0.9121649789420722,Excellent
+1057,135070,true,casual drinker,formal,public,single,student,medium,Restaurante 75,No_Alcohol_Served,none,informal,medium,closed,none,3,30,4.849521477321364,Medium
+1112,132954,true,casual drinker,formal,car owner,single,student,medium,la parroquia,No_Alcohol_Served,not permitted,informal,medium,closed,none,1,28,8.423609266875088,Bad
+1057,135043,true,casual drinker,formal,public,single,student,medium,pizza clasica,No_Alcohol_Served,none,informal,medium,closed,none,3,30,3.546269545615609,Medium
+1112,135079,true,casual drinker,formal,car owner,single,student,medium,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,1,28,9.382744212305155,Bad
+1112,135062,true,casual drinker,formal,car owner,single,student,medium,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,1,28,7.367956809579374,Bad
+1090,135051,false,social drinker,no preference,car owner,single,student,medium,Restaurante Versalles,No_Alcohol_Served,section,informal,low,closed,none,4,31,1.097117089582826,Medium
+1090,132954,false,social drinker,no preference,car owner,single,student,medium,la parroquia,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,31,0.44314800979591906,Excellent
+1057,132954,true,casual drinker,formal,public,single,student,medium,la parroquia,No_Alcohol_Served,not permitted,informal,medium,closed,none,1,30,8.794286051539236,Bad
+1061,132955,false,social drinker,no preference,car owner,single,professional,medium,emilianos,Wine-Beer,none,informal,low,closed,variety,6,29,7.568257842231487,Excellent
+1112,132921,true,casual drinker,formal,car owner,single,student,medium,crudalia,Wine-Beer,section,casual,low,open,none,1,28,8.353865061937292,Bad
+1061,132958,false,social drinker,no preference,car owner,single,professional,medium,tacos los volcanes,No_Alcohol_Served,none,informal,low,closed,none,6,29,7.070410762421301,Excellent
+1090,135085,false,social drinker,no preference,car owner,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,31,0.8650774264508327,Excellent
+1112,132572,true,casual drinker,formal,car owner,single,student,medium,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,1,28,8.686257829282102,Bad
+1090,132922,false,social drinker,no preference,car owner,single,student,medium,cafe punta del cielo,No_Alcohol_Served,permitted,formal,medium,closed,none,6,31,0.837262456015835,Excellent
+1025,132866,false,social drinker,no preference,public,single,student,medium,Chaires,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,29,2.9751310467294365,Excellent
+1057,135080,true,casual drinker,formal,public,single,student,medium,los Toneles,No_Alcohol_Served,section,informal,high,closed,none,2,30,10.534468990583012,Bad
+1112,132834,true,casual drinker,formal,car owner,single,student,medium,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,1,28,8.08175851984305,Bad
+1057,132825,true,casual drinker,formal,public,single,student,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,2,30,9.122735262935498,Bad
+1112,132862,true,casual drinker,formal,car owner,single,student,medium,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,3,28,8.140076519975565,Medium
+1061,132954,false,social drinker,no preference,car owner,single,professional,medium,la parroquia,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,29,5.681378960780693,Excellent
+1025,132877,false,social drinker,no preference,public,single,student,medium,sirloin stockade,No_Alcohol_Served,none,informal,low,closed,none,3,29,2.997843147661273,Medium
+1057,135064,true,casual drinker,formal,public,single,student,medium,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,2,30,9.870078774746712,Bad
+1057,135046,true,casual drinker,formal,public,single,student,medium,Restaurante El Reyecito,No_Alcohol_Served,none,informal,medium,closed,none,1,30,11.19086438934531,Bad
+1090,135025,false,social drinker,no preference,car owner,single,student,medium,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,6,31,1.182499389853623,Excellent
+1090,132925,false,social drinker,no preference,car owner,single,student,medium,el pueblito,Wine-Beer,not permitted,informal,medium,closed,none,6,31,0.9942226260337068,Excellent
+1057,132862,true,casual drinker,formal,public,single,student,medium,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,1,30,9.247182099964403,Bad
+1057,135075,true,casual drinker,formal,public,single,student,medium,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,2,30,10.342356512713847,Bad
+1025,132847,false,social drinker,no preference,public,single,student,medium,don burguers,No_Alcohol_Served,none,informal,low,open,none,4,29,3.686361129424461,Medium
+1057,135030,true,casual drinker,formal,public,single,student,medium,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,medium,closed,Internet,2,30,9.627948994702265,Bad
+1025,135071,false,social drinker,no preference,public,single,student,medium,Restaurante la Cantina,Full_Bar,section,informal,medium,closed,none,6,29,0.3292627101488014,Excellent
+1057,132834,true,casual drinker,formal,public,single,student,medium,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,low,closed,none,2,30,8.776646647386135,Bad
+1025,132958,false,social drinker,no preference,public,single,student,medium,tacos los volcanes,No_Alcohol_Served,none,informal,low,closed,none,1,29,10.31895490418733,Bad
+1025,135028,false,social drinker,no preference,public,single,student,medium,La Virreina,Wine-Beer,none,informal,medium,closed,none,3,29,8.514028841821894,Medium
+1025,135047,false,social drinker,no preference,public,single,student,medium,Restaurante Casa de las Flores,Wine-Beer,section,informal,high,closed,none,3,29,9.302753083283502,Medium
+1025,132846,false,social drinker,no preference,public,single,student,medium,el lechon potosino ,No_Alcohol_Served,permitted,casual,low,open,none,6,29,4.037786995271609,Excellent
+1025,135064,false,social drinker,no preference,public,single,student,medium,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,6,29,9.707634754971927,Excellent
+1025,132830,false,social drinker,no preference,public,single,student,medium,Rincon Huasteco,No_Alcohol_Served,none,informal,low,closed,none,6,29,4.3186392022465006,Excellent
+1097,135079,false,abstemious,formal,public,single,student,medium,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,3,29,6.181064447214461,Medium
+1097,135058,false,abstemious,formal,public,single,student,medium,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,4,29,6.741394097361795,Medium
+1097,132954,false,abstemious,formal,public,single,student,medium,la parroquia,No_Alcohol_Served,not permitted,informal,medium,closed,none,2,29,5.263971679825443,Bad
+1097,132958,false,abstemious,formal,public,single,student,medium,tacos los volcanes,No_Alcohol_Served,none,informal,low,closed,none,4,29,6.818348363873517,Medium
+1097,135026,false,abstemious,formal,public,single,student,medium,la Cantina,Full_Bar,none,informal,high,closed,none,2,29,6.372958561659593,Bad
+1059,132955,false,abstemious,formal,on foot,single,student,medium,emilianos,Wine-Beer,none,informal,low,closed,variety,5,32,402.64658629478515,Excellent
+1059,135044,false,abstemious,formal,on foot,single,student,medium,Restaurant Wu Zhuo Yi,No_Alcohol_Served,none,informal,medium,closed,none,4,32,401.4329930724602,Medium
+1059,135085,false,abstemious,formal,on foot,single,student,medium,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,32,401.5353885800353,Excellent
+1059,135030,false,abstemious,formal,on foot,single,student,medium,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,medium,closed,Internet,6,32,401.6015760607801,Excellent
+1059,132825,false,abstemious,formal,on foot,single,student,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,4,32,401.22834837346096,Medium
+1059,132754,false,abstemious,formal,on foot,single,student,medium,Cabana Huasteca,No_Alcohol_Served,none,informal,medium,closed,none,6,32,401.6465317951696,Excellent
+1097,132921,false,abstemious,formal,public,single,student,medium,crudalia,Wine-Beer,section,casual,low,open,none,5,29,5.138828216904225,Excellent
+1097,132955,false,abstemious,formal,public,single,student,medium,emilianos,Wine-Beer,none,informal,low,closed,variety,5,29,7.295646959579901,Excellent
+1097,132884,false,abstemious,formal,public,single,student,medium,dairy queen,No_Alcohol_Served,none,informal,low,closed,none,3,29,9.132080348869788,Medium
+1097,135049,false,abstemious,formal,public,single,student,medium,Restaurante de Mariscos la Langosta,No_Alcohol_Served,none,informal,medium,closed,none,4,29,9.255267112897984,Medium
+1097,135034,false,abstemious,formal,public,single,student,medium,Michiko Restaurant Japones,No_Alcohol_Served,none,informal,medium,closed,none,5,29,8.459661373434527,Excellent
+1006,132954,true,social drinker,no preference,car owner,single,student,medium,la parroquia,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,30,1.2617848452114098,Medium
+1006,135079,true,social drinker,no preference,car owner,single,student,medium,Koye Sushi,No_Alcohol_Served,none,informal,high,closed,none,3,30,1.7341161776127507,Medium
+1006,132875,true,social drinker,no preference,car owner,single,student,medium,shi ro ie,Wine-Beer,section,informal,high,open,Internet,6,30,1.1119734042807254,Excellent
+1006,135026,true,social drinker,no preference,car owner,single,student,medium,la Cantina,Full_Bar,none,informal,high,closed,none,6,30,1.8907152275723609,Excellent
+1006,132922,true,social drinker,no preference,car owner,single,student,medium,cafe punta del cielo,No_Alcohol_Served,permitted,formal,medium,closed,none,5,30,0.14434032628751572,Excellent
+1006,132572,true,social drinker,no preference,car owner,single,student,medium,Cafe Chaires,No_Alcohol_Served,not permitted,informal,low,closed,none,2,30,1.3635154704378356,Bad
+1006,135075,true,social drinker,no preference,car owner,single,student,medium,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,4,30,1.4538131909073482,Medium
+1006,132825,true,social drinker,no preference,car owner,single,student,medium,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,3,30,0.2889235550600155,Medium
+1006,135048,true,social drinker,no preference,car owner,single,student,medium,Restaurante Bar Fu-hao,Wine-Beer,none,informal,high,closed,none,4,30,1.8947208082966238,Medium
+1006,135030,true,social drinker,no preference,car owner,single,student,medium,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,medium,closed,Internet,4,30,0.7076829718625257,Medium
+1006,132884,true,social drinker,no preference,car owner,single,student,medium,dairy queen,No_Alcohol_Served,none,informal,low,closed,none,6,30,4.7719961943049,Excellent
+1131,135054,true,social drinker,no preference,car owner,married,student,medium,Restaurante y Pescaderia Tampico,No_Alcohol_Served,none,informal,high,closed,none,5,29,0.552720354943333,Excellent
+1131,132869,true,social drinker,no preference,car owner,married,student,medium,Dominos Pizza,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,29,1.3791611422412204,Medium
+1131,132866,true,social drinker,no preference,car owner,married,student,medium,Chaires,No_Alcohol_Served,not permitted,informal,medium,closed,none,6,29,2.1263007245515158,Excellent
+1131,135082,true,social drinker,no preference,car owner,married,student,medium,la Estrella de Dimas,No_Alcohol_Served,none,informal,medium,closed,none,1,29,1.5234159953099262,Bad
+1131,132851,true,social drinker,no preference,car owner,married,student,medium,KFC,No_Alcohol_Served,not permitted,informal,low,closed,none,6,29,2.4420077229563963,Excellent
+1131,132870,true,social drinker,no preference,car owner,married,student,medium,Tortas y hamburguesas el gordo,No_Alcohol_Served,not permitted,informal,low,closed,none,2,29,2.586569291964663,Bad
+1058,135076,false,abstemious,formal,public,single,student,low,Restaurante Pueblo Bonito,Wine-Beer,none,informal,high,closed,none,6,28,3.030704569758662,Excellent
+1058,135043,false,abstemious,formal,public,single,student,low,pizza clasica,No_Alcohol_Served,none,informal,medium,closed,none,5,28,4.826678685626151,Excellent
+1058,135058,false,abstemious,formal,public,single,student,low,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,4,28,4.720682465992452,Medium
+1058,135053,false,abstemious,formal,public,single,student,low,La Fontana Pizza Restaurante and Cafe,No_Alcohol_Served,section,informal,high,closed,none,4,28,4.0595735772954935,Medium
+1058,132885,false,abstemious,formal,public,single,student,low,Hamburguesas saul,No_Alcohol_Served,none,informal,low,closed,none,3,28,4.074183710756482,Medium
+1058,135050,false,abstemious,formal,public,single,student,low,Restaurante la Estrella de Dima,Wine-Beer,none,informal,high,closed,none,1,28,3.767513758002508,Bad
+1058,132872,false,abstemious,formal,public,single,student,low,Pizzeria Julios,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,28,3.672995715693182,Excellent
+1058,135066,false,abstemious,formal,public,single,student,low,Restaurante Guerra,Wine-Beer,section,informal,high,closed,none,3,28,4.378398103001069,Medium
+1002,132921,false,abstemious,informal,public,single,student,low,crudalia,Wine-Beer,section,casual,low,open,none,4,29,0.5996712372189612,Medium
+1002,135062,false,abstemious,informal,public,single,student,low,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,4,29,0.5969375059371427,Medium
+1002,135106,false,abstemious,informal,public,single,student,low,El Rinc�n de San Francisco,Wine-Beer,only at bar,informal,medium,open,none,3,29,0.7471996585160158,Medium
+1002,132825,false,abstemious,informal,public,single,student,low,puesto de tacos,No_Alcohol_Served,none,informal,low,open,none,4,29,0.29936775084244943,Medium
+1002,135052,false,abstemious,informal,public,single,student,low,La Cantina Restaurante,Full_Bar,none,informal,high,closed,none,3,29,0.6179238611750654,Medium
+1002,132862,false,abstemious,informal,public,single,student,low,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,6,29,0.38555925891353743,Excellent
+1096,132875,false,abstemious,formal,public,single,student,medium,shi ro ie,Wine-Beer,section,informal,high,open,Internet,6,29,5.610788015739584,Excellent
+1002,135059,false,abstemious,informal,public,single,student,low,Restaurant Bar Hacienda los Martinez,Wine-Beer,section,informal,medium,closed,none,4,29,0.8461189313857153,Medium
+1002,135041,false,abstemious,informal,public,single,student,low,Luna Cafe,Wine-Beer,none,informal,medium,closed,none,3,29,0.5943115667273975,Medium
+1002,132925,false,abstemious,informal,public,single,student,low,el pueblito,Wine-Beer,not permitted,informal,medium,closed,none,4,29,0.8224764602516418,Medium
+1002,135085,false,abstemious,informal,public,single,student,low,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,29,0.10341750226337051,Medium
+1096,135025,false,abstemious,formal,public,single,student,medium,El Rincon de San Francisco,No_Alcohol_Served,none,informal,medium,closed,none,6,29,3.9841005861419823,Excellent
+1096,135072,false,abstemious,formal,public,single,student,medium,Sushi Itto,No_Alcohol_Served,none,informal,medium,closed,none,4,29,6.546932656710257,Medium
+1096,135064,false,abstemious,formal,public,single,student,medium,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,2,29,5.969524371144368,Bad
+1096,135086,false,abstemious,formal,public,single,student,medium,Mcdonalds Parque Tangamanga,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,29,7.684318629895782,Medium
+1096,135055,false,abstemious,formal,public,single,student,medium,la Cochinita Pibil Restaurante Yucateco,No_Alcohol_Served,section,informal,high,closed,none,6,29,7.114930943053898,Excellent
+1136,135074,true,social drinker,no preference,car owner,single,student,low,Restaurante la Parroquia Potosina,Wine-Beer,section,informal,high,closed,none,4,29,0.2363958671411881,Medium
+1096,135026,false,abstemious,formal,public,single,student,medium,la Cantina,Full_Bar,none,informal,high,closed,none,6,29,6.372265508276571,Excellent
+1136,132862,true,social drinker,no preference,car owner,single,student,low,La Posada del Virrey,Wine-Beer,none,casual,high,closed,none,6,29,1.0604674613408764,Excellent
+1096,132955,false,abstemious,formal,public,single,student,medium,emilianos,Wine-Beer,none,informal,low,closed,variety,6,29,7.295026569314354,Excellent
+1136,132921,true,social drinker,no preference,car owner,single,student,low,crudalia,Wine-Beer,section,casual,low,open,none,6,29,0.8392419874907228,Excellent
+1136,135072,true,social drinker,no preference,car owner,single,student,low,Sushi Itto,No_Alcohol_Served,none,informal,medium,closed,none,3,29,0.5898716381452755,Medium
+1096,132723,false,abstemious,formal,public,single,student,medium,Gordas de morales,Full_Bar,section,informal,medium,closed,none,4,29,8.287140414380696,Medium
+1136,135055,true,social drinker,no preference,car owner,single,student,low,la Cochinita Pibil Restaurante Yucateco,No_Alcohol_Served,section,informal,high,closed,none,6,29,1.1621339329435325,Excellent
+1136,135064,true,social drinker,no preference,car owner,single,student,low,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,3,29,0.5661208322680741,Medium
+1096,132958,false,abstemious,formal,public,single,student,medium,tacos los volcanes,No_Alcohol_Served,none,informal,low,closed,none,5,29,6.817858331185222,Excellent
+1096,135075,false,abstemious,formal,public,single,student,medium,Mariscos El Pescador,No_Alcohol_Served,none,informal,medium,closed,none,4,29,5.4012799936184415,Medium
+1136,132958,true,social drinker,no preference,car owner,single,student,low,tacos los volcanes,No_Alcohol_Served,none,informal,low,closed,none,6,29,1.0109768198773856,Excellent
+1136,135048,true,social drinker,no preference,car owner,single,student,low,Restaurante Bar Fu-hao,Wine-Beer,none,informal,high,closed,none,5,29,0.8656809876317516,Excellent
+1136,135046,true,social drinker,no preference,car owner,single,student,low,Restaurante El Reyecito,No_Alcohol_Served,none,informal,medium,closed,none,6,29,1.0946827984679448,Excellent
+1136,135028,true,social drinker,no preference,car owner,single,student,low,La Virreina,Wine-Beer,none,informal,medium,closed,none,6,29,1.0835722115673483,Excellent
+1097,135086,false,abstemious,formal,public,single,student,medium,Mcdonalds Parque Tangamanga,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,29,7.684646240234834,Medium
+1097,135053,false,abstemious,formal,public,single,student,medium,La Fontana Pizza Restaurante and Cafe,No_Alcohol_Served,section,informal,high,closed,none,6,29,8.417039089839331,Excellent
+1097,132861,false,abstemious,formal,public,single,student,medium,Carls Jr,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,29,8.021930823688475,Excellent
+1058,135062,false,abstemious,formal,public,single,student,low,Restaurante El Cielo Potosino,No_Alcohol_Served,none,informal,medium,closed,none,6,28,5.81467387485212,Excellent
+1058,135055,false,abstemious,formal,public,single,student,low,la Cochinita Pibil Restaurante Yucateco,No_Alcohol_Served,section,informal,high,closed,none,6,28,6.715531125779568,Excellent
+1010,135053,false,social drinker,no preference,car owner,married,student,medium,La Fontana Pizza Restaurante and Cafe,No_Alcohol_Served,section,informal,high,closed,none,3,32,1.973688443870947,Medium
+1010,135058,false,social drinker,no preference,car owner,married,student,medium,Restaurante Tiberius,No_Alcohol_Served,none,informal,medium,closed,none,1,32,2.81460001881154,Bad
+1003,135059,false,social drinker,formal,public,single,student,low,Restaurant Bar Hacienda los Martinez,Wine-Beer,section,informal,medium,closed,none,6,30,5.246137609418031,Excellent
+1010,135064,false,social drinker,no preference,car owner,married,student,medium,Restaurante El Chivero S.A. de C.V.,No_Alcohol_Served,none,informal,high,closed,none,2,32,4.014324657402913,Bad
+1010,135047,false,social drinker,no preference,car owner,married,student,medium,Restaurante Casa de las Flores,Wine-Beer,section,informal,high,closed,none,3,32,4.453834642639896,Medium
+1010,135065,false,social drinker,no preference,car owner,married,student,medium,El angel Restaurante,Wine-Beer,section,informal,high,closed,none,3,32,4.575168829613813,Medium
+1102,132854,false,social drinker,no preference,on foot,single,student,low,Sirlone,Wine-Beer,none,informal,medium,closed,none,6,30,0.3023752586168646,Excellent
+1102,132858,false,social drinker,no preference,on foot,single,student,low,Hamburguesas Valle Dorado,No_Alcohol_Served,none,informal,low,closed,none,4,30,0.7646739144275866,Medium
+1010,135042,false,social drinker,no preference,car owner,married,student,medium,Restaurant Oriental Express,No_Alcohol_Served,none,informal,medium,closed,none,6,32,4.356299760106615,Excellent
+1102,132870,false,social drinker,no preference,on foot,single,student,low,Tortas y hamburguesas el gordo,No_Alcohol_Served,not permitted,informal,low,closed,none,4,30,0.8809455805068542,Medium
+1010,135076,false,social drinker,no preference,car owner,married,student,medium,Restaurante Pueblo Bonito,Wine-Beer,none,informal,high,closed,none,5,32,2.8055746222754276,Excellent
+1102,132847,false,social drinker,no preference,on foot,single,student,low,don burguers,No_Alcohol_Served,none,informal,low,open,none,4,30,0.8875509066769579,Medium
+1013,132951,false,abstemious,no preference,public,widow,professional,medium,VIPS,No_Alcohol_Served,not permitted,casual,low,closed,none,6,37,2.3812802675479543,Excellent
+1013,135060,false,abstemious,no preference,public,widow,professional,medium,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,medium,closed,none,2,37,2.5255317493320817,Bad
+1028,132732,false,abstemious,no preference,public,single,student,medium,Taqueria EL amigo ,No_Alcohol_Served,none,casual,low,open,none,3,30,0.26547914074015844,Medium
+1028,132733,false,abstemious,no preference,public,single,student,medium,Little Cesarz,No_Alcohol_Served,not permitted,informal,medium,closed,none,3,30,0.6808880950348506,Medium
+1028,135104,false,abstemious,no preference,public,single,student,medium,vips,Full_Bar,not permitted,informal,medium,closed,variety,1,30,0.08322709667708643,Bad
+1050,132732,false,social drinker,no preference,car owner,single,student,medium,Taqueria EL amigo ,No_Alcohol_Served,none,casual,low,open,none,2,30,0.4938101573570282,Bad
+1050,132560,false,social drinker,no preference,car owner,single,student,medium,puesto de gorditas,No_Alcohol_Served,permitted,informal,low,open,none,2,30,0.8440380525101856,Bad
+1050,132740,false,social drinker,no preference,car owner,single,student,medium,Carreton de Flautas y Migadas,No_Alcohol_Served,permitted,informal,low,open,none,2,30,0.8693316341355277,Bad
+1050,132594,false,social drinker,no preference,car owner,single,student,medium,tacos de barbacoa enfrente del Tec,No_Alcohol_Served,not permitted,informal,low,open,none,2,30,0.9258456486985256,Bad
+1028,132740,false,abstemious,no preference,public,single,student,medium,Carreton de Flautas y Migadas,No_Alcohol_Served,permitted,informal,low,open,none,3,30,0.2764849934166259,Medium
+1129,132706,false,casual drinker,no preference,public,single,student,low,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,medium,closed,none,1,30,0.17842510137270062,Bad
+1028,132630,false,abstemious,no preference,public,single,student,medium,palomo tec,No_Alcohol_Served,none,informal,low,closed,none,6,30,0.48626748464984954,Excellent
+1028,132613,false,abstemious,no preference,public,single,student,medium,carnitas_mata,No_Alcohol_Served,permitted,informal,medium,closed,none,6,30,0.4247159542735449,Excellent
+1087,132667,false,abstemious,no preference,public,single,student,medium,little pizza Emilio Portes Gil,No_Alcohol_Served,none,informal,low,closed,none,5,30,0.47673240542389794,Excellent
+1087,135104,false,abstemious,no preference,public,single,student,medium,vips,Full_Bar,not permitted,informal,medium,closed,variety,4,30,0.060347352137542366,Medium
+1087,132660,false,abstemious,no preference,public,single,student,medium,carnitas mata calle Emilio Portes Gil,No_Alcohol_Served,none,informal,low,closed,none,2,30,0.339720610670518,Bad
+1087,132732,false,abstemious,no preference,public,single,student,medium,Taqueria EL amigo ,No_Alcohol_Served,none,casual,low,open,none,5,30,0.3552960175101354,Excellent
+1087,132740,false,abstemious,no preference,public,single,student,medium,Carreton de Flautas y Migadas,No_Alcohol_Served,permitted,informal,low,open,none,4,30,0.18690427886143066,Medium
+1087,132560,false,abstemious,no preference,public,single,student,medium,puesto de gorditas,No_Alcohol_Served,permitted,informal,low,open,none,4,30,0.15803796743452878,Medium
+1087,132594,false,abstemious,no preference,public,single,student,medium,tacos de barbacoa enfrente del Tec,No_Alcohol_Served,not permitted,informal,low,open,none,4,30,0.2655793144008747,Medium
+1087,132663,false,abstemious,no preference,public,single,student,medium,tacos abi,No_Alcohol_Served,none,informal,low,closed,none,4,30,0.13924551947401254,Medium
+1065,132626,false,abstemious,formal,public,single,student,medium,la perica hamburguesa,No_Alcohol_Served,none,informal,medium,closed,none,2,30,3.040418441976153,Bad
+1065,132706,false,abstemious,formal,public,single,student,medium,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,30,2.770633693327442,Excellent
+1129,132561,false,casual drinker,no preference,public,single,student,low,cafe ambar,No_Alcohol_Served,none,informal,low,closed,none,5,30,0.7995546306048212,Excellent
+1065,132665,false,abstemious,formal,public,single,student,medium,TACOS CORRECAMINOS,No_Alcohol_Served,none,informal,low,closed,none,3,30,2.9390526991139794,Medium
+1065,132561,false,abstemious,formal,public,single,student,medium,cafe ambar,No_Alcohol_Served,none,informal,low,closed,none,3,30,2.260825944093558,Medium
+1039,132626,false,social drinker,no preference,,single,student,medium,la perica hamburguesa,No_Alcohol_Served,none,informal,medium,closed,none,5,30,0.4897003049181788,Excellent
+1039,132564,false,social drinker,no preference,,single,student,medium,churchs,No_Alcohol_Served,none,informal,low,closed,none,4,30,0.9567997098253805,Medium
+1065,132654,false,abstemious,formal,public,single,student,medium,Carnitas Mata  Calle 16 de Septiembre,No_Alcohol_Served,none,informal,low,closed,none,3,30,2.452688868339431,Medium
+1039,132665,false,social drinker,no preference,,single,student,medium,TACOS CORRECAMINOS,No_Alcohol_Served,none,informal,low,closed,none,4,30,0.5944195871093526,Medium
+1130,132706,,abstemious,,,,,,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,medium,closed,none,4,30,0.4241681234483543,Medium
+1043,132608,false,abstemious,no preference,public,single,student,medium,Hamburguesas La perica,No_Alcohol_Served,permitted,informal,low,open,none,3,30,1.36850311260172,Medium
+1043,132609,false,abstemious,no preference,public,single,student,medium,Pollo_Frito_Buenos_Aires,No_Alcohol_Served,not permitted,informal,low,closed,none,4,30,1.1983531571541635,Medium
+1011,132717,false,abstemious,no preference,public,single,student,medium,tortas hawai,No_Alcohol_Served,not permitted,informal,medium,closed,none,5,30,0.8017949748212923,Excellent
+1043,132613,false,abstemious,no preference,public,single,student,medium,carnitas_mata,No_Alcohol_Served,permitted,informal,medium,closed,none,3,30,2.017984162174884,Medium
+1011,132564,false,abstemious,no preference,public,single,student,medium,churchs,No_Alcohol_Served,none,informal,low,closed,none,3,30,1.0229623980529752,Medium
+1043,132732,false,abstemious,no preference,public,single,student,medium,Taqueria EL amigo ,No_Alcohol_Served,none,casual,low,open,none,3,30,1.8957460604942165,Medium
+1043,132630,false,abstemious,no preference,public,single,student,medium,palomo tec,No_Alcohol_Served,none,informal,low,closed,none,3,30,2.022178712467139,Medium
+1011,132715,false,abstemious,no preference,public,single,student,medium,tacos de la estacion,No_Alcohol_Served,none,informal,low,open,none,2,30,1.015471346710197,Bad
+1068,132733,false,casual drinker,informal,public,single,student,low,Little Cesarz,No_Alcohol_Served,not permitted,informal,medium,closed,none,2,31,0.6176084305719001,Bad
+1068,132594,false,casual drinker,informal,public,single,student,low,tacos de barbacoa enfrente del Tec,No_Alcohol_Served,not permitted,informal,low,open,none,3,31,0.29544769362367057,Medium

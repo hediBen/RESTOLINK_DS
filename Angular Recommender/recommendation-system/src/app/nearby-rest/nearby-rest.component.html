@@ -1,0 +1,28 @@
+<app-nav-bar></app-nav-bar>
+
+<div class="jumbotron text-center">
+  <h1>Dashboard</h1>
+</div>
+
+<div class="container">
+  <div class="row">
+    <h3>Near By Restaurants</h3>
+  </div>
+  <div class="row">
+    <div *ngIf="!fetchRestaurant">
+      <div class="loadme">
+        <p>Loading..</p>
+        <div class="loader"></div>
+      </div>
+    </div>
+    <div class="col-sm-4" *ngFor="let person of fetchRestaurant; let i = index">
+      <div class="card">
+        <img class="card-img-top" src="../../assets/images/the-apollo-restaurant_interior_3.jpg" alt="Card image" height="250px;">
+        <div class="card-body">
+          <h4 class="card-title">{{person[1]}}</h4>
+          <p class="card-text">Exact Distance: {{person[0]}}Km</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
